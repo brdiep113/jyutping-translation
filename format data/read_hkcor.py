@@ -8,6 +8,8 @@ def build_hkcancor_corpus(output_file):
     """
     corpus = pycantonese.hkcancor()
     tokens_by_utterances = corpus.tokens(by_utterances=True)
+    chars = corpus.characters
+    print(chars)
     open(output_file, 'w').close()
 
     number_of_sentence = 0
