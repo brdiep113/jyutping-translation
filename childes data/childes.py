@@ -37,32 +37,28 @@ def build_corpus_childes(url, output_file):
         for token in tokens_by_utterances[i]:
             if not token.jyutping is None:
                 word_strings += token.word
+                # print(token.jyutping)
+                # print(token.word)
                 if len(token.jyutping) > 1:
                     l = re.split('(?<=[a-z]+\d{1})', token.jyutping)
                     jyutping_list.extend(l)
                 else:
                     jyutping_list.append(token.jyutping)
+        jyutping_list = [character for character in jyutping_list if character != ""]
 
-        if re.search("[A-Za-z0-9]", word_strings) is not None:
+        if re.search("[A-Za-z0-9]", word_strings) is not None or len(jyutping_list) != len(word_strings):
             word_strings = ""
             jyutping_list = ""
-
-
-
+        # print(jyutping_list)
+        # print(word_strings)
         chi_char = []
-        jyutping_list = [character for character in jyutping_list if character != ""]
-        print(word_strings)
 
         for char, p in zip(word_strings.replace(" ", ""), jyutping_list):
             chi_char.extend([char] + ["_"] * (len(p) - 1))
 
         jyutping_list = "".join(jyutping_list)
         chi_char = "".join(chi_char)
-        print(jyutping_list)
-        print(chi_char)
-        if len(jyutping_list) != len(chi_char):
-            jyutping_list = ""
-            chi_char = ""
+        # print(chi_char)
 
         assert len(jyutping_list) == len(chi_char)
         try:
@@ -108,4 +104,4 @@ if __name__ == "__main__":
                        PaidologosCorpusCantonese_formatted_data,YipMatthewsBilingualCorpus_formatted_data]
     for c, f in zip(corpus_list,output_file_list):
         build_corpus_childes(c, f)
-    # build_corpus_childes(LeoCorpus,LeoCorpus_formatted_data)
+    # build_corpus_childes(HKU70Corpus,HKU70Corpus_formatted_data)
