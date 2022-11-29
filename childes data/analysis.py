@@ -7,9 +7,10 @@ def build_corpus_childes(url, output_file):
       A tuple of jyutping and cantonese sentence.
     """
     corpus = pycantonese.read_chat(url)
-    tokens_by_utterances = corpus.tokens(by_utterances=True)[:20]
+    tokens_by_utterances = corpus.tokens(by_utterances=True)
     open(output_file, 'w').close()
-    sentence_with_same_len = 0
+    number_of_sentence = 0
+    number_of_character = 0
     for i in range(len(tokens_by_utterances)):
         word_strings = ""
         jyutping_list = []
@@ -40,7 +41,8 @@ def build_corpus_childes(url, output_file):
         # print(chi_char)
 
         if jyutping_list != "":
-            sentence_with_same_len += 1
+            number_of_sentence += 1
+            number_of_character += len(word_strings)
 
         assert len(jyutping_list) == len(chi_char)
         try:
@@ -50,7 +52,10 @@ def build_corpus_childes(url, output_file):
             #     fout.write(u"{}\t{}\t{}\n".format(i, jyutping_list, chi_char))
         except:
             continue  # it's okay as we have a pretty big corpus!
-    print(sentence_with_same_len)
+    avg = number_of_character / number_of_sentence
+    print(f"Number of sentences: {number_of_sentence}")
+    print(f"Number of characters: {number_of_character}")
+    print(f"Average number of characters per sentence:{round(avg, 2)}")
     # return jyutping_list, chi_char
     #     pattern = re.compile(r"[a-z]+[0-9]{1}", re.IGNORECASE)
     #     jyutping_len = len(re.findall(pattern, jyutping_list))
@@ -71,10 +76,7 @@ def clean(text):
 
 
 if __name__ == "__main__":
-    LeoCorpus = "https://childes.talkbank.org/data/Biling/Leo.zip"
+    LeoCorpus = "https://childes.talkbank.org/data/Biling/Guthrie.zip"
     LeoCorpus_formatted_data = "TestCorpus.tsv"
     build_corpus_childes(LeoCorpus, LeoCorpus_formatted_data)
 
-#sentence
-#character
-#

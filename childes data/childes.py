@@ -5,24 +5,6 @@ import regex as re  # pip install regex
 import pycantonese
 
 
-def show_childes_info(url):
-    corpus = pycantonese.read_chat(url)
-
-    # print(corpus.words())
-    return corpus.info(verbose=True)
-
-
-def show_childes_tokens_by_utterances_info(url):
-    corpus = pycantonese.read_chat(url)
-    tokens_by_utterances = corpus.tokens(by_utterances=True)
-    for i in range(10):
-        for token in tokens_by_utterances[i]:
-            print(f"word: {token.word}")
-            print(f"jyutping: {token.jyutping}")
-            print()
-    return
-
-
 def build_corpus_childes(url, output_file):
     """
         Returns:
@@ -31,6 +13,10 @@ def build_corpus_childes(url, output_file):
     corpus = pycantonese.read_chat(url)
     tokens_by_utterances = corpus.tokens(by_utterances=True)
     open(output_file, 'w').close()
+
+    number_of_sentence = 0
+    number_of_character = 0
+
     for i in range(len(tokens_by_utterances)):
         word_strings = ""
         jyutping_list = []
@@ -59,6 +45,9 @@ def build_corpus_childes(url, output_file):
         jyutping_list = "".join(jyutping_list)
         chi_char = "".join(chi_char)
         # print(chi_char)
+        if jyutping_list != "":
+            number_of_sentence += 1
+            number_of_character += len(word_strings)
 
         assert len(jyutping_list) == len(chi_char)
         try:
@@ -69,37 +58,39 @@ def build_corpus_childes(url, output_file):
         except:
             continue  # it's okay as we have a pretty big corpus!
 
-    # return jyutping_list, chi_char
+    avg = number_of_character / number_of_sentence
+    print(f"{output_file}")
+    print(f"Number of sentences: {number_of_sentence}")
+    print(f"Number of characters: {number_of_character}")
+    print(f"Average number of characters per sentence:{round(avg, 2)}")
+    print("------------------------------------------------ \n")
+    return number_of_sentence, number_of_character
 
-def clean(text):
-    if re.search("[A-Za-z0-9]", text) is not None:  # For simplicity, roman alphanumeric characters are removed.
-        return ""
-    text = re.sub(u"[^ \p{Han}。，！？]", "", text)
-    return text
 
 if __name__ == "__main__":
-    # build_corpus(url);
-    # print("Done")
-    # print(show_childes_info(url))
-    GuthrieBilingualCorpus = "https://childes.talkbank.org/data/Biling/Guthrie.zip"
     HKU70Corpus = "https://childes.talkbank.org/data/Chinese/Cantonese/HKU.zip"
     LeeWongLeungCorpus = "https://childes.talkbank.org/data/Chinese/Cantonese/LeeWongLeung.zip"
     LeoCorpus = "https://childes.talkbank.org/data/Biling/Leo.zip"
-    PaidologosCorpusCantonese = "https://phonbank.talkbank.org/data/Chinese/Cantonese/PaidoCantonese.zip"
     YipMatthewsBilingualCorpus = "https://childes.talkbank.org/data/Biling/YipMatthews.zip"
 
-    GuthrieBilingualCorpus_formatted_data = "GuthrieBilingualCorpus_formatted_data.tsv"
     HKU70Corpus_formatted_data = "HKU70Corpus_formatted_data.tsv"
     LeeWongLeungCorpus_formatted_data = "LeeWongLeungCorpus_formatted_data.tsv"
     LeoCorpus_formatted_data = "LeoCorpus_formatted_data.tsv"
-    PaidologosCorpusCantonese_formatted_data = "PaidologosCorpusCantonese_formatted_data.tsv"
     YipMatthewsBilingualCorpus_formatted_data = "YipMatthewsBilingualCorpus_formatted_data.tsv"
 
-    corpus_list = [GuthrieBilingualCorpus, HKU70Corpus, LeeWongLeungCorpus, LeoCorpus,
-                   PaidologosCorpusCantonese, YipMatthewsBilingualCorpus]
-    output_file_list = [GuthrieBilingualCorpus_formatted_data,
-                       HKU70Corpus_formatted_data,LeeWongLeungCorpus_formatted_data, LeoCorpus_formatted_data,
-                       PaidologosCorpusCantonese_formatted_data,YipMatthewsBilingualCorpus_formatted_data]
+    corpus_list = [HKU70Corpus, LeeWongLeungCorpus, LeoCorpus, YipMatthewsBilingualCorpus]
+    output_file_list = [HKU70Corpus_formatted_data, LeeWongLeungCorpus_formatted_data, LeoCorpus_formatted_data,
+                        YipMatthewsBilingualCorpus_formatted_data]
+    total_sentence = 0
+    total_char = 0
     for c, f in zip(corpus_list,output_file_list):
-        build_corpus_childes(c, f)
-    # build_corpus_childes(HKU70Corpus,HKU70Corpus_formatted_data)
+        number_of_sentence, number_of_char = build_corpus_childes(c, f)
+        total_sentence += number_of_sentence
+        total_char += number_of_char
+
+    avg = total_char / total_sentence
+    print(f"Total")
+    print(f"Number of sentences: {total_sentence}")
+    print(f"Number of characters: {total_char}")
+    print(f"Average number of characters per sentence:{round(avg, 2)}")
+    print("------------------------------------------------ \n")
