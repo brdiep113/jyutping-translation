@@ -75,3 +75,6 @@ if __name__ == "__main__":
     LeoCorpus_formatted_data = "TestCorpus.tsv"
     build_corpus_childes(LeoCorpus, LeoCorpus_formatted_data)
 
+#sentence
+#character
+#
