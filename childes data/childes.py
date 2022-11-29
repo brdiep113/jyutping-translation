@@ -37,17 +37,32 @@ def build_corpus_childes(url, output_file):
         for token in tokens_by_utterances[i]:
             if not token.jyutping is None:
                 word_strings += token.word
-                jyutping_list.append(token.jyutping)
+                if len(token.jyutping) > 1:
+                    l = re.split('(?<=[a-z]+\d{1})', token.jyutping)
+                    jyutping_list.extend(l)
+                else:
+                    jyutping_list.append(token.jyutping)
+
+        if re.search("[A-Za-z0-9]", word_strings) is not None:
+            word_strings = ""
+            jyutping_list = ""
+
+
 
         chi_char = []
+        jyutping_list = [character for character in jyutping_list if character != ""]
+        print(word_strings)
+
         for char, p in zip(word_strings.replace(" ", ""), jyutping_list):
-            chi_char.extend([char] + ["_"] * (len(p) - 1)
-                            )
+            chi_char.extend([char] + ["_"] * (len(p) - 1))
+
         jyutping_list = "".join(jyutping_list)
         chi_char = "".join(chi_char)
-
-        # print(jyutping_list)
-        # print(chi_char)
+        print(jyutping_list)
+        print(chi_char)
+        if len(jyutping_list) != len(chi_char):
+            jyutping_list = ""
+            chi_char = ""
 
         assert len(jyutping_list) == len(chi_char)
         try:
@@ -60,7 +75,11 @@ def build_corpus_childes(url, output_file):
 
     # return jyutping_list, chi_char
 
-
+def clean(text):
+    if re.search("[A-Za-z0-9]", text) is not None:  # For simplicity, roman alphanumeric characters are removed.
+        return ""
+    text = re.sub(u"[^ \p{Han}。，！？]", "", text)
+    return text
 
 if __name__ == "__main__":
     # build_corpus(url);
@@ -89,3 +108,4 @@ if __name__ == "__main__":
                        PaidologosCorpusCantonese_formatted_data,YipMatthewsBilingualCorpus_formatted_data]
     for c, f in zip(corpus_list,output_file_list):
         build_corpus_childes(c, f)
+    # build_corpus_childes(LeoCorpus,LeoCorpus_formatted_data)

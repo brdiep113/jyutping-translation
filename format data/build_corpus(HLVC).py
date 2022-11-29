@@ -20,6 +20,8 @@ def align(sent):
         jyutping_string += list(tup)[1]
     # print(jyutping_string)
     jyutping_list = re.split('(?<=[a-z]+\d{1})', jyutping_string)
+    print(sent)
+    print(jyutping_list)
 
     chi_char = []
     for char, p in zip(sent.replace(" ", ""), jyutping_list):
@@ -27,7 +29,7 @@ def align(sent):
 
     jyutping_list = "".join(jyutping_list)
     chi_char = "".join(chi_char)
-    print(jyutping_list)
+
     print(chi_char)
     assert len(jyutping_list) == len(chi_char), "The hanzis and the pinyins must be the same in length."
     return jyutping_list, chi_char
@@ -64,4 +66,4 @@ def build_corpus():
 if __name__ == "__main__":
     # build_corpus();
     # print("Done")
-    print(align("哎呀咁都問嘅"))
+    align("哎呀咁都問嘅")
