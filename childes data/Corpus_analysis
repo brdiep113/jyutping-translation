@@ -11,9 +11,9 @@ Average number of characters per sentence:3.52
 ------------------------------------------------ 
 
 LeoCorpus_formatted_data.tsv
-Number of sentences: 20697
-Number of characters: 74347
-Average number of characters per sentence:3.59
+Number of sentences: 10443
+Number of characters: 44005
+Average number of characters per sentence:4.21
 ------------------------------------------------ 
 
 YipMatthewsBilingualCorpus_formatted_data.tsv
@@ -23,11 +23,10 @@ Average number of characters per sentence:4.4
 ------------------------------------------------ 
 
 Total
-Number of sentences: 279805
-Number of characters: 1141146
-Average number of characters per sentence:4.08
-------------------------------------------------
-
+Number of sentences: 269551
+Number of characters: 1110804
+Average number of characters per sentence:4.12
+------------------------------------------------------------------------------------------------------------------------
 
 
 

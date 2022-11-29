@@ -1,6 +1,7 @@
 from __future__ import print_function
 import codecs
 import os
+
 import regex as re  # pip install regex
 import pycantonese
 
@@ -10,7 +11,14 @@ def build_corpus_childes(url, output_file):
         Returns:
       A tuple of jyutping and cantonese sentence.
     """
-    corpus = pycantonese.read_chat(url)
+    # get specific cantonese file from Leo
+    if url == "https://childes.talkbank.org/data/Biling/Leo.zip":
+        Leo_cantoneseo_only = pycantonese.read_chat(url)
+        corpus = Leo_cantoneseo_only.filter("Cantonese")
+    # conventional way
+    else:
+        corpus = pycantonese.read_chat(url)
+
     tokens_by_utterances = corpus.tokens(by_utterances=True)
     open(output_file, 'w').close()
 
@@ -53,10 +61,8 @@ def build_corpus_childes(url, output_file):
         try:
             with open(output_file, "a") as fout:
                 fout.write(u"{}\t{}\t{}\n".format(i, jyutping_list, chi_char))
-            # with codecs.open("formatted_data.tsv", 'w', 'utf-8') as fout:
-            #     fout.write(u"{}\t{}\t{}\n".format(i, jyutping_list, chi_char))
         except:
-            continue  # it's okay as we have a pretty big corpus!
+            continue
 
     avg = number_of_character / number_of_sentence
     print(f"{output_file}")
