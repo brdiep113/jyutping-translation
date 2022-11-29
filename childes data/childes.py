@@ -81,7 +81,6 @@ if __name__ == "__main__":
     # build_corpus(url);
     # print("Done")
     # print(show_childes_info(url))
-    ChildHeritageChineseCorpus = "https://childes.talkbank.org/data/Biling/CHCC.zip"
     GuthrieBilingualCorpus = "https://childes.talkbank.org/data/Biling/Guthrie.zip"
     HKU70Corpus = "https://childes.talkbank.org/data/Chinese/Cantonese/HKU.zip"
     LeeWongLeungCorpus = "https://childes.talkbank.org/data/Chinese/Cantonese/LeeWongLeung.zip"
@@ -89,7 +88,6 @@ if __name__ == "__main__":
     PaidologosCorpusCantonese = "https://phonbank.talkbank.org/data/Chinese/Cantonese/PaidoCantonese.zip"
     YipMatthewsBilingualCorpus = "https://childes.talkbank.org/data/Biling/YipMatthews.zip"
 
-    ChildHeritageChineseCorpus_formatted_data = "ChildHeritageChineseCorpus_formatted_data.tsv"
     GuthrieBilingualCorpus_formatted_data = "GuthrieBilingualCorpus_formatted_data.tsv"
     HKU70Corpus_formatted_data = "HKU70Corpus_formatted_data.tsv"
     LeeWongLeungCorpus_formatted_data = "LeeWongLeungCorpus_formatted_data.tsv"
@@ -97,9 +95,9 @@ if __name__ == "__main__":
     PaidologosCorpusCantonese_formatted_data = "PaidologosCorpusCantonese_formatted_data.tsv"
     YipMatthewsBilingualCorpus_formatted_data = "YipMatthewsBilingualCorpus_formatted_data.tsv"
 
-    corpus_list = [ChildHeritageChineseCorpus, GuthrieBilingualCorpus, HKU70Corpus, LeeWongLeungCorpus, LeoCorpus,
+    corpus_list = [GuthrieBilingualCorpus, HKU70Corpus, LeeWongLeungCorpus, LeoCorpus,
                    PaidologosCorpusCantonese, YipMatthewsBilingualCorpus]
-    output_file_list = [ChildHeritageChineseCorpus_formatted_data, GuthrieBilingualCorpus_formatted_data,
+    output_file_list = [GuthrieBilingualCorpus_formatted_data,
                        HKU70Corpus_formatted_data,LeeWongLeungCorpus_formatted_data, LeoCorpus_formatted_data,
                        PaidologosCorpusCantonese_formatted_data,YipMatthewsBilingualCorpus_formatted_data]
     for c, f in zip(corpus_list,output_file_list):
