@@ -32,14 +32,14 @@ def load_vocab_json():
 
 def load_train_data():
     '''Loads vectorized input training data'''
-    pnyn2idx, idx2pnyn, hanzi2idx, idx2hanzi = load_vocab()
+    pnyn2idx, idx2pnyn, hanzi2idx, idx2hanzi = load_vocab_json()
 
     print("pnyn vocabulary size is", len(pnyn2idx))
     print("hanzi vocabulary size is", len(hanzi2idx))
 
     xs, ys = [], []
     with codecs.open('t', 'w', 'utf-8') as fout:
-        for line in codecs.open('data/zh.tsv', 'r', 'utf-8'):
+        for line in codecs.open('data/hkcancor_data.tsv', 'r', 'utf-8'):
             try:
                 _, pnyn_sent, hanzi_sent = line.strip().split("\t")
             except ValueError:
@@ -66,7 +66,7 @@ def load_test_data():
     except IOError:
         raise IOError("Write the sentences you want to test line by line in `data/input.csv` file.")
 
-    pnyn2idx, _, hanzi2idx, _ = load_vocab()
+    pnyn2idx, _, hanzi2idx, _ = load_vocab_json()
 
     nums, xs, ys = [], [], [] # ys: ground truth (list of string)
     for line in lines:

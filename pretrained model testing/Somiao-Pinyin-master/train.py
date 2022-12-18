@@ -3,7 +3,7 @@ Training.
 '''
 from __future__ import print_function
 from hyperparams import Hyperparams as hp
-from data_load import get_batch, load_vocab
+from data_load import get_batch, load_vocab_json
 import tensorflow as tf
 from modules import *
 from tqdm import tqdm
@@ -22,7 +22,7 @@ class Graph():
                 self.y = tf.placeholder(tf.int32, shape=(None, hp.maxlen,))
 
             # Load vocabulary
-            pnyn2idx, _, hanzi2idx, _ = load_vocab()
+            pnyn2idx, _, hanzi2idx, _ = load_vocab_json()
 
             # Character Embedding for x
             enc = embed(self.x, len(pnyn2idx), hp.embed_size, scope="emb_x")
