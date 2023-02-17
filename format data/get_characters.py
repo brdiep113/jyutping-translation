@@ -1,7 +1,7 @@
 from pympi import Elan
 import os
 
-def extract_data(directory, eaf_filename, destination, txt_filename):
+def extract_data(directory, eaf_filename, destination):
     """
     :param directory:
     :param eaf_filename:
@@ -9,23 +9,26 @@ def extract_data(directory, eaf_filename, destination, txt_filename):
     """
     eaf_file = Elan.Eaf(directory + "/" + eaf_filename)
     speaker_id = eaf_filename[:6]
-    tier = "Main Speaker - CHI"
+    tier = "Main Speaker - Character"
     speaker_chi = eaf_file.get_annotation_data_for_tier(tier)
 
     for i, annotation in enumerate(speaker_chi):
         chi_char = list(annotation)[2]
-        with open(txt_filename, "a") as txt_file:
+        output_path = os.path.join(des_path, "{}_training_char.txt".format(speaker_id))
+        with open(output_path, "a") as txt_file:
             txt_file.write(str(i) + "\t" + chi_char + "\n")
-        print(chi_char)
 
 
 src_path = "eaf"
-des_path = "eaf_result"
+des_path = "training_characters(txt)"
 if __name__ == '__main__':
+
+    if not os.path.exists(des_path):
+        os.makedirs(des_path)
 
     for path in os.listdir(src_path):
         try:
-            if os.path.isfile(os.path.join(src_path + "/", path)):
-                extract_data(src_path, path, des_path, "chi_char.txt")
+            if os.path.isfile(os.path.join(src_path + "/", path)) and path.endswith(".eaf"):
+                extract_data(src_path, path, des_path)
         except Exception:
             print(path, "error")

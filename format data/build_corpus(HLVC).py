@@ -30,7 +30,6 @@ def align(sent):
     jyutping_list = "".join(jyutping_list)
     chi_char = "".join(chi_char)
 
-    print(chi_char)
     assert len(jyutping_list) == len(chi_char), "The hanzis and the pinyins must be the same in length."
     return jyutping_list, chi_char
 
@@ -42,9 +41,13 @@ def clean(text):
     return text
 
 
-def build_corpus():
-    with codecs.open("formatted_data.tsv", 'w', 'utf-8') as fout:
-        with codecs.open("chi_char.txt", 'r', 'utf-8') as fin:
+def build_corpus(eaf_filename, src_path, des_path):
+    speaker_id = eaf_filename[:6]
+    read_path = os.path.join(src_path, "{}_training_char.txt".format(speaker_id))
+    write_path = os.path.join(des_path, "{}_training_char.tsv".format(speaker_id))
+
+    with codecs.open(write_path, 'w', 'utf-8') as fout:
+        with codecs.open(read_path, 'r', 'utf-8') as fin:
             i = 1
             while 1:
                 line = fin.readline()
@@ -63,7 +66,15 @@ def build_corpus():
                 i += 1
 
 
-if __name__ == "__main__":
-    # build_corpus();
-    # print("Done")
-    align("哎呀咁都問嘅")
+src_path = "training_characters(txt)"
+des_path = "training_characters(tsv)"
+if __name__ == '__main__':
+
+    for path in os.listdir(src_path):
+        if not os.path.exists(des_path):
+            os.makedirs(des_path)
+        try:
+            if os.path.isfile(os.path.join(src_path + "/", path)) and path.endswith(".txt"):
+                build_corpus(path, src_path, des_path)
+        except Exception:
+            print(path, "error")
