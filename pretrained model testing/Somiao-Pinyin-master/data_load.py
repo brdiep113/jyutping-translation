@@ -62,9 +62,9 @@ def load_train_data():
 def load_test_data():
     '''Embeds and vectorize words in input corpus'''
     try:
-        lines = [line for line in codecs.open('eval/input.csv', 'r', 'utf-8').read().splitlines()[1:]]
+        lines = [line for line in codecs.open('eval/input.csv(jyut+char)', 'r', 'utf-8').read().splitlines()[1:]]
     except IOError:
-        raise IOError("Write the sentences you want to test line by line in `data/input.csv` file.")
+        raise IOError("Write the sentences you want to test line by line in `data/input.csv(jyut+char)` file.")
 
     pnyn2idx, _, hanzi2idx, _ = load_vocab_json()
 

@@ -28,7 +28,7 @@ def main_batches():
             # Get model
             mname = open(hp.logdir + '/checkpoint', 'r').read().split('"')[1]  # model name
 
-            with codecs.open('eval/{}_{}.csv'.format(mname, "qwerty" if hp.isqwerty else "nine"), 'w', 'utf-8') as fout:
+            with codecs.open('eval/{}_{}.csv(jyut+char)'.format(mname, "qwerty" if hp.isqwerty else "nine"), 'w', 'utf-8') as fout:
                 fout.write("NUM,EXPECTED,{}_{},# characters,edit distance\n".format(mname,
                                                                                     "qwerty" if hp.isqwerty else "nine"))
 

@@ -2,11 +2,7 @@ from pympi import Elan
 import os
 
 def extract_data(directory, eaf_filename, destination):
-    """
-    :param directory:
-    :param eaf_filename:
-    :param destination:
-    """
+
     eaf_file = Elan.Eaf(directory + "/" + eaf_filename)
     speaker_id = eaf_filename[:6]
     tier = "Main Speaker - Character"
@@ -19,7 +15,7 @@ def extract_data(directory, eaf_filename, destination):
             txt_file.write(str(i) + "\t" + chi_char + "\n")
 
 
-src_path = "eaf"
+src_path = "EAF/eaf(jyut+char)"
 des_path = "training_characters(txt)"
 if __name__ == '__main__':
 
@@ -28,7 +24,7 @@ if __name__ == '__main__':
 
     for path in os.listdir(src_path):
         try:
-            if os.path.isfile(os.path.join(src_path + "/", path)) and path.endswith(".eaf"):
+            if os.path.isfile(os.path.join(src_path + "/", path)) and path.endswith(".eaf(jyut+char)"):
                 extract_data(src_path, path, des_path)
         except Exception:
             print(path, "error")

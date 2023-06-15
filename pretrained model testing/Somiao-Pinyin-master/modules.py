@@ -16,7 +16,7 @@ def embed(inputs, vocab_size, num_units, zero_pad=True, scope="embedding", reuse
       reuse: Boolean, whether to reuse the weights of a previous layer
         by the same name.
     Returns:
-      A `Tensor` with one more rank than inputs's. The last dimesionality
+      A `Tensor` with one more rank than inputs(jyut+char)'s. The last dimesionality
         should be `num_units`.
     '''
     with tf.variable_scope(scope, reuse=reuse):
@@ -49,8 +49,8 @@ def normalize(inputs,
         `tf.contrib.layers.batch_norm`. For this I recommend you change
         a line in ``tensorflow/contrib/layers/python/layers/layer.py`
         as follows.
-        Before: mean, variance = nn.moments(inputs, axis, keep_dims=True)
-        After: mean, variance = nn.moments(inputs, [-1], keep_dims=True)
+        Before: mean, variance = nn.moments(inputs(jyut+char), axis, keep_dims=True)
+        After: mean, variance = nn.moments(inputs(jyut+char), [-1], keep_dims=True)
       type: A string. Either "bn" or "ln".
       decay: Decay for the moving average. Reasonable values for `decay` are close
         to 1.0, typically in the multiple-nines range: 0.999, 0.99, 0.9, etc.
@@ -61,7 +61,7 @@ def normalize(inputs,
       activation_fn: Activation function.
       scope: Optional scope for `variable_scope`.
     Returns:
-      A tensor with the same shape and data dtype as `inputs`.
+      A tensor with the same shape and data dtype as `inputs(jyut+char)`.
     '''
     if type == "bn":
         inputs_shape = inputs.get_shape()
@@ -143,7 +143,7 @@ def conv1d(inputs,
       reuse: Boolean, whether to reuse the weights of a previous layer
         by the same name.
     Returns:
-      A masked tensor of the same shape and dtypes as `inputs`.
+      A masked tensor of the same shape and dtypes as `inputs(jyut+char)`.
     '''
     with tf.variable_scope(scope):
         if padding.lower() == "causal":
@@ -155,7 +155,7 @@ def conv1d(inputs,
         if filters is None:
             filters = inputs.get_shape().as_list[-1]
 
-        params = {"inputs": inputs, "filters": filters, "kernel_size": size,
+        params = {"inputs(jyut+char)": inputs, "filters": filters, "kernel_size": size,
                   "dilation_rate": rate, "padding": padding, "activation": activation_fn,
                   "use_bias": use_bias, "reuse": reuse}
 
@@ -168,7 +168,7 @@ def conv1d_banks(inputs, num_units=None, K=16, is_training=True, scope="conv1d_b
     Args:
       inputs: A 3d tensor with shape of [N, T, C]
       K: An int. The size of conv1d banks. That is,
-        The `inputs` are convolved with K filters: 1, 2, ..., K.
+        The `inputs(jyut+char)` are convolved with K filters: 1, 2, ..., K.
       is_training: A boolean. This is passed to an argument of `batch_normalize`.
     Returns:
       A 3d tensor with shape of [N, T, K*Hp.embed_size//2].

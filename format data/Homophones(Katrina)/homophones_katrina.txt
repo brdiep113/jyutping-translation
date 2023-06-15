@@ -1,0 +1,6700 @@
+number of homophones9
+sik1: ['識', '適', '悉', '色', '式', '釋', '息', '晰', '惜'] 
+char: 識 count: 219  frequency : 0.0%
+char: 式 count: 35  frequency : 0.0%
+char: 色 count: 21  frequency : 0.0%
+char: 適 count: 16  frequency : 0.0%
+char: 釋 count: 5  frequency : 0.0%
+char: 息 count: 3  frequency : 0.0%
+char: 晰 count: 2  frequency : 0.0%
+char: 惜 count: 2  frequency : 0.0%
+char: 悉 count: 1  frequency : 0.0%
+total count:304
+
+number of homophones9
+si1: ['嘶', '司', '斯', '思', '私', '師', '獅', '詩', '屍'] 
+char: 師 count: 51  frequency : 0.0%
+char: 思 count: 22  frequency : 0.0%
+char: 私 count: 20  frequency : 0.0%
+char: 司 count: 16  frequency : 0.0%
+char: 斯 count: 4  frequency : 0.0%
+char: 嘶 count: 2  frequency : 0.0%
+char: 詩 count: 2  frequency : 0.0%
+char: 屍 count: 2  frequency : 0.0%
+char: 獅 count: 1  frequency : 0.0%
+total count:120
+
+number of homophones8
+jyun4: ['原', '完', '員', '園', '圓', '緣', '元', '源'] 
+char: 完 count: 95  frequency : 0.0%
+char: 原 count: 37  frequency : 0.0%
+char: 員 count: 8  frequency : 0.0%
+char: 元 count: 3  frequency : 0.0%
+char: 園 count: 2  frequency : 0.0%
+char: 圓 count: 1  frequency : 0.0%
+char: 緣 count: 1  frequency : 0.0%
+char: 源 count: 1  frequency : 0.0%
+total count:148
+
+number of homophones8
+jau4: ['由', '遊', '油', '尤', '郵', '游', '柔', '猶'] 
+char: 由 count: 59  frequency : 0.0%
+char: 遊 count: 7  frequency : 0.0%
+char: 尤 count: 6  frequency : 0.0%
+char: 油 count: 2  frequency : 0.0%
+char: 郵 count: 2  frequency : 0.0%
+char: 游 count: 1  frequency : 0.0%
+char: 柔 count: 1  frequency : 0.0%
+char: 猶 count: 1  frequency : 0.0%
+total count:79
+
+number of homophones7
+zung1: ['鐘', '鍾', '中', '宗', '終', '舂', '縱'] 
+char: 中 count: 360  frequency : 0.0%
+char: 鍾 count: 136  frequency : 0.0%
+char: 鐘 count: 31  frequency : 0.0%
+char: 終 count: 23  frequency : 0.0%
+char: 宗 count: 3  frequency : 0.0%
+char: 舂 count: 1  frequency : 0.0%
+char: 縱 count: 1  frequency : 0.0%
+total count:555
+
+number of homophones7
+gaa3: ['架', '假', '㗎', '價', '加', '嫁', '咖'] 
+char: 架 count: 83  frequency : 0.0%
+char: 㗎 count: 30  frequency : 0.0%
+char: 假 count: 14  frequency : 0.0%
+char: 嫁 count: 11  frequency : 0.0%
+char: 價 count: 3  frequency : 0.0%
+char: 加 count: 1  frequency : 0.0%
+char: 咖 count: 1  frequency : 0.0%
+total count:143
+
+number of homophones7
+zi2: ['子', '姊', '紙', '止', '只', '指', '址'] 
+char: 只 count: 40  frequency : 0.0%
+char: 子 count: 28  frequency : 0.0%
+char: 姊 count: 13  frequency : 0.0%
+char: 紙 count: 7  frequency : 0.0%
+char: 指 count: 7  frequency : 0.0%
+char: 止 count: 6  frequency : 0.0%
+char: 址 count: 2  frequency : 0.0%
+total count:103
+
+number of homophones6
+ji4: ['而', '宜', '移', '疑', '兒', '姨'] 
+char: 而 count: 252  frequency : 0.0%
+char: 移 count: 56  frequency : 0.0%
+char: 宜 count: 23  frequency : 0.0%
+char: 兒 count: 6  frequency : 0.0%
+char: 疑 count: 3  frequency : 0.0%
+char: 姨 count: 3  frequency : 0.0%
+total count:343
+
+number of homophones6
+zi1: ['知', '之', '資', '支', '枝', '芝'] 
+char: 知 count: 342  frequency : 0.0%
+char: 之 count: 107  frequency : 0.0%
+char: 資 count: 8  frequency : 0.0%
+char: 支 count: 3  frequency : 0.0%
+char: 枝 count: 2  frequency : 0.0%
+char: 芝 count: 1  frequency : 0.0%
+total count:463
+
+number of homophones6
+ji5: ['耳', '以', '已', '擬', '迆', '議'] 
+char: 以 count: 797  frequency : 0.0%
+char: 已 count: 99  frequency : 0.0%
+char: 迆 count: 3  frequency : 0.0%
+char: 耳 count: 1  frequency : 0.0%
+char: 擬 count: 1  frequency : 0.0%
+char: 議 count: 1  frequency : 0.0%
+total count:902
+
+number of homophones6
+si6: ['事', '示', '士', '視', '侍', '是'] 
+char: 事 count: 112  frequency : 0.0%
+char: 視 count: 35  frequency : 0.0%
+char: 士 count: 15  frequency : 0.0%
+char: 是 count: 8  frequency : 0.0%
+char: 示 count: 3  frequency : 0.0%
+char: 侍 count: 1  frequency : 0.0%
+total count:174
+
+number of homophones6
+gu2: ['果', '鼓', '股', '估', '古', '故'] 
+char: 果 count: 243  frequency : 0.0%
+char: 估 count: 20  frequency : 0.0%
+char: 鼓 count: 8  frequency : 0.0%
+char: 古 count: 6  frequency : 0.0%
+char: 股 count: 2  frequency : 0.0%
+char: 故 count: 2  frequency : 0.0%
+total count:281
+
+number of homophones6
+kei4: ['其', '期', '奇', '歧', '旗', '祈'] 
+char: 其 count: 222  frequency : 0.0%
+char: 期 count: 56  frequency : 0.0%
+char: 奇 count: 30  frequency : 0.0%
+char: 歧 count: 10  frequency : 0.0%
+char: 祈 count: 2  frequency : 0.0%
+char: 旗 count: 1  frequency : 0.0%
+total count:321
+
+number of homophones6
+zik6: ['直', '值', '殖', '籍', '寂', '夕'] 
+char: 直 count: 62  frequency : 0.0%
+char: 值 count: 5  frequency : 0.0%
+char: 殖 count: 2  frequency : 0.0%
+char: 籍 count: 2  frequency : 0.0%
+char: 寂 count: 1  frequency : 0.0%
+char: 夕 count: 1  frequency : 0.0%
+total count:73
+
+number of homophones6
+soeng1: ['相', '雙', '箱', '傷', '湯', '鑲'] 
+char: 相 count: 18  frequency : 0.0%
+char: 雙 count: 5  frequency : 0.0%
+char: 傷 count: 5  frequency : 0.0%
+char: 箱 count: 1  frequency : 0.0%
+char: 湯 count: 1  frequency : 0.0%
+char: 鑲 count: 1  frequency : 0.0%
+total count:31
+
+number of homophones6
+ji1: ['醫', '依', '兒', '意', '姨', '衣'] 
+char: 依 count: 40  frequency : 0.0%
+char: 醫 count: 35  frequency : 0.0%
+char: 衣 count: 2  frequency : 0.0%
+char: 兒 count: 1  frequency : 0.0%
+char: 意 count: 1  frequency : 0.0%
+char: 姨 count: 1  frequency : 0.0%
+total count:80
+
+number of homophones6
+zing1: ['精', '睛', '晶', '蒸', '癥', '徵'] 
+char: 精 count: 3  frequency : 0.0%
+char: 晶 count: 3  frequency : 0.0%
+char: 睛 count: 1  frequency : 0.0%
+char: 蒸 count: 1  frequency : 0.0%
+char: 癥 count: 1  frequency : 0.0%
+char: 徵 count: 1  frequency : 0.0%
+total count:10
+
+number of homophones6
+ci4: ['遲', '持', '詞', '辭', '池', '弛'] 
+char: 遲 count: 19  frequency : 0.0%
+char: 詞 count: 10  frequency : 0.0%
+char: 持 count: 6  frequency : 0.0%
+char: 辭 count: 6  frequency : 0.0%
+char: 池 count: 2  frequency : 0.0%
+char: 弛 count: 1  frequency : 0.0%
+total count:44
+
+number of homophones5
+gung1: ['公', '工', '功', '供', '攻'] 
+char: 工 count: 242  frequency : 0.0%
+char: 公 count: 40  frequency : 0.0%
+char: 功 count: 22  frequency : 0.0%
+char: 供 count: 8  frequency : 0.0%
+char: 攻 count: 2  frequency : 0.0%
+total count:314
+
+number of homophones5
+si2: ['時', '士', '事', '史', '屎'] 
+char: 時 count: 395  frequency : 0.0%
+char: 士 count: 18  frequency : 0.0%
+char: 史 count: 9  frequency : 0.0%
+char: 事 count: 1  frequency : 0.0%
+char: 屎 count: 1  frequency : 0.0%
+total count:424
+
+number of homophones5
+bou6: ['部', '步', '埗', '簿', '暴'] 
+char: 部 count: 97  frequency : 0.0%
+char: 步 count: 6  frequency : 0.0%
+char: 埗 count: 2  frequency : 0.0%
+char: 簿 count: 1  frequency : 0.0%
+char: 暴 count: 1  frequency : 0.0%
+total count:107
+
+number of homophones5
+wai6: ['為', '胃', '謂', '位', '爲'] 
+char: 為 count: 548  frequency : 0.0%
+char: 謂 count: 38  frequency : 0.0%
+char: 爲 count: 16  frequency : 0.0%
+char: 胃 count: 1  frequency : 0.0%
+char: 位 count: 1  frequency : 0.0%
+total count:604
+
+number of homophones5
+man4: ['民', '聞', '文', '紋', '鼆'] 
+char: 民 count: 61  frequency : 0.0%
+char: 文 count: 55  frequency : 0.0%
+char: 聞 count: 4  frequency : 0.0%
+char: 紋 count: 1  frequency : 0.0%
+char: 鼆 count: 1  frequency : 0.0%
+total count:122
+
+number of homophones5
+san1: ['新', '身', '辛', '申', '伸'] 
+char: 新 count: 44  frequency : 0.0%
+char: 身 count: 43  frequency : 0.0%
+char: 辛 count: 27  frequency : 0.0%
+char: 申 count: 2  frequency : 0.0%
+char: 伸 count: 1  frequency : 0.0%
+total count:117
+
+number of homophones5
+zik1: ['即', '積', '職', '績', '織'] 
+char: 即 count: 755  frequency : 0.0%
+char: 職 count: 8  frequency : 0.0%
+char: 織 count: 3  frequency : 0.0%
+char: 積 count: 2  frequency : 0.0%
+char: 績 count: 2  frequency : 0.0%
+total count:770
+
+number of homophones5
+wai4: ['為', '圍', '唯', '爲', '維'] 
+char: 為 count: 26  frequency : 0.0%
+char: 圍 count: 26  frequency : 0.0%
+char: 唯 count: 5  frequency : 0.0%
+char: 維 count: 3  frequency : 0.0%
+char: 爲 count: 2  frequency : 0.0%
+total count:62
+
+number of homophones5
+lei5: ['理', '裡', '李', '裏', '俚'] 
+char: 理 count: 26  frequency : 0.0%
+char: 裡 count: 13  frequency : 0.0%
+char: 裏 count: 8  frequency : 0.0%
+char: 李 count: 1  frequency : 0.0%
+char: 俚 count: 1  frequency : 0.0%
+total count:49
+
+number of homophones5
+zuk1: ['足', '祝', '捉', '燭', '築'] 
+char: 捉 count: 15  frequency : 0.0%
+char: 足 count: 11  frequency : 0.0%
+char: 祝 count: 11  frequency : 0.0%
+char: 燭 count: 6  frequency : 0.0%
+char: 築 count: 2  frequency : 0.0%
+total count:45
+
+number of homophones5
+lai6: ['勵', '厲', '例', '荔', '麗'] 
+char: 例 count: 35  frequency : 0.0%
+char: 勵 count: 8  frequency : 0.0%
+char: 麗 count: 4  frequency : 0.0%
+char: 厲 count: 2  frequency : 0.0%
+char: 荔 count: 2  frequency : 0.0%
+total count:51
+
+number of homophones5
+bou2: ['補', '寶', '保', '堡', '埗'] 
+char: 保 count: 20  frequency : 0.0%
+char: 補 count: 13  frequency : 0.0%
+char: 埗 count: 6  frequency : 0.0%
+char: 堡 count: 3  frequency : 0.0%
+char: 寶 count: 2  frequency : 0.0%
+total count:44
+
+number of homophones5
+fung1: ['風', '豐', '瘋', '封', '鋒'] 
+char: 風 count: 3  frequency : 0.0%
+char: 豐 count: 2  frequency : 0.0%
+char: 封 count: 2  frequency : 0.0%
+char: 鋒 count: 2  frequency : 0.0%
+char: 瘋 count: 1  frequency : 0.0%
+total count:10
+
+number of homophones5
+jing4: ['營', '形', '仍', '迎', '型'] 
+char: 形 count: 10  frequency : 0.0%
+char: 營 count: 2  frequency : 0.0%
+char: 仍 count: 2  frequency : 0.0%
+char: 型 count: 2  frequency : 0.0%
+char: 迎 count: 1  frequency : 0.0%
+total count:17
+
+number of homophones4
+luk6: ['六', '陸', '錄', '綠'] 
+char: 六 count: 84  frequency : 0.0%
+char: 陸 count: 22  frequency : 0.0%
+char: 錄 count: 7  frequency : 0.0%
+char: 綠 count: 2  frequency : 0.0%
+total count:115
+
+number of homophones4
+seoi3: ['歲', '碎', '嵗', '稅'] 
+char: 歲 count: 99  frequency : 0.0%
+char: 碎 count: 1  frequency : 0.0%
+char: 嵗 count: 1  frequency : 0.0%
+char: 稅 count: 1  frequency : 0.0%
+total count:102
+
+number of homophones4
+gaa1: ['家', '加', '假', '嘉'] 
+char: 家 count: 413  frequency : 0.0%
+char: 加 count: 138  frequency : 0.0%
+char: 嘉 count: 2  frequency : 0.0%
+char: 假 count: 1  frequency : 0.0%
+total count:554
+
+number of homophones4
+ze1: ['姐', '啫', '遮', '嗻'] 
+char: 啫 count: 360  frequency : 0.0%
+char: 姐 count: 25  frequency : 0.0%
+char: 嗻 count: 15  frequency : 0.0%
+char: 遮 count: 1  frequency : 0.0%
+total count:401
+
+number of homophones4
+zoeng2: ['丈', '長', '獎', '掌'] 
+char: 長 count: 47  frequency : 0.0%
+char: 獎 count: 4  frequency : 0.0%
+char: 丈 count: 1  frequency : 0.0%
+char: 掌 count: 1  frequency : 0.0%
+total count:53
+
+number of homophones4
+gei1: ['機', '基', '肌', '璣'] 
+char: 機 count: 83  frequency : 0.0%
+char: 基 count: 30  frequency : 0.0%
+char: 肌 count: 2  frequency : 0.0%
+char: 璣 count: 1  frequency : 0.0%
+total count:116
+
+number of homophones4
+mou5: ['冇', '母', '無', '舞'] 
+char: 冇 count: 864  frequency : 0.0%
+char: 母 count: 34  frequency : 0.0%
+char: 無 count: 8  frequency : 0.0%
+char: 舞 count: 8  frequency : 0.0%
+total count:914
+
+number of homophones4
+jan1: ['因', '人', '恩', '姻'] 
+char: 因 count: 569  frequency : 0.0%
+char: 人 count: 16  frequency : 0.0%
+char: 恩 count: 8  frequency : 0.0%
+char: 姻 count: 1  frequency : 0.0%
+total count:594
+
+number of homophones4
+hei3: ['戲', '氣', '器', '棄'] 
+char: 戲 count: 30  frequency : 0.0%
+char: 氣 count: 29  frequency : 0.0%
+char: 器 count: 2  frequency : 0.0%
+char: 棄 count: 1  frequency : 0.0%
+total count:62
+
+number of homophones4
+gaau3: ['覺', '較', '教', '夠'] 
+char: 教 count: 154  frequency : 0.0%
+char: 較 count: 110  frequency : 0.0%
+char: 覺 count: 5  frequency : 0.0%
+char: 夠 count: 1  frequency : 0.0%
+total count:270
+
+number of homophones4
+gou1: ['糕', '高', '羔', '膏'] 
+char: 高 count: 36  frequency : 0.0%
+char: 糕 count: 9  frequency : 0.0%
+char: 羔 count: 1  frequency : 0.0%
+char: 膏 count: 1  frequency : 0.0%
+total count:47
+
+number of homophones4
+jung4: ['溶', '容', '傭', '融'] 
+char: 容 count: 34  frequency : 0.0%
+char: 溶 count: 1  frequency : 0.0%
+char: 傭 count: 1  frequency : 0.0%
+char: 融 count: 1  frequency : 0.0%
+total count:37
+
+number of homophones4
+jyu4: ['如', '餘', '娛', '魚'] 
+char: 如 count: 386  frequency : 0.0%
+char: 魚 count: 4  frequency : 0.0%
+char: 餘 count: 3  frequency : 0.0%
+char: 娛 count: 3  frequency : 0.0%
+total count:396
+
+number of homophones4
+dou2: ['到', '賭', '倒', '島'] 
+char: 到 count: 551  frequency : 0.0%
+char: 島 count: 6  frequency : 0.0%
+char: 倒 count: 4  frequency : 0.0%
+char: 賭 count: 1  frequency : 0.0%
+total count:562
+
+number of homophones4
+gu3: ['故', '顧', '雇', '固'] 
+char: 故 count: 10  frequency : 0.0%
+char: 顧 count: 10  frequency : 0.0%
+char: 固 count: 4  frequency : 0.0%
+char: 雇 count: 1  frequency : 0.0%
+total count:25
+
+number of homophones4
+loeng4: ['涼', '糧', '良', '梁'] 
+char: 涼 count: 13  frequency : 0.0%
+char: 糧 count: 2  frequency : 0.0%
+char: 良 count: 1  frequency : 0.0%
+char: 梁 count: 1  frequency : 0.0%
+total count:17
+
+number of homophones4
+bei2: ['比', '俾', '畀', '彼'] 
+char: 比 count: 122  frequency : 0.0%
+char: 俾 count: 104  frequency : 0.0%
+char: 畀 count: 22  frequency : 0.0%
+char: 彼 count: 2  frequency : 0.0%
+total count:250
+
+number of homophones4
+tong4: ['糖', '堂', '唐', '塘'] 
+char: 堂 count: 36  frequency : 0.0%
+char: 唐 count: 3  frequency : 0.0%
+char: 塘 count: 2  frequency : 0.0%
+char: 糖 count: 1  frequency : 0.0%
+total count:42
+
+number of homophones4
+naam4: ['男', '南', '暔', '囡'] 
+char: 男 count: 38  frequency : 0.0%
+char: 南 count: 6  frequency : 0.0%
+char: 暔 count: 1  frequency : 0.0%
+char: 囡 count: 1  frequency : 0.0%
+total count:46
+
+number of homophones4
+jan2: ['人', '隱', '忍', '癮'] 
+char: 人 count: 17  frequency : 0.0%
+char: 忍 count: 3  frequency : 0.0%
+char: 隱 count: 1  frequency : 0.0%
+char: 癮 count: 1  frequency : 0.0%
+total count:22
+
+number of homophones4
+faan4: ['煩', '繁', '藩', '凡'] 
+char: 煩 count: 10  frequency : 0.0%
+char: 凡 count: 3  frequency : 0.0%
+char: 藩 count: 2  frequency : 0.0%
+char: 繁 count: 1  frequency : 0.0%
+total count:16
+
+number of homophones4
+zau1: ['周', '洲', '舟', '州'] 
+char: 周 count: 23  frequency : 0.0%
+char: 洲 count: 12  frequency : 0.0%
+char: 州 count: 8  frequency : 0.0%
+char: 舟 count: 1  frequency : 0.0%
+total count:44
+
+number of homophones4
+zi3: ['致', '至', '智', '置'] 
+char: 至 count: 38  frequency : 0.0%
+char: 致 count: 12  frequency : 0.0%
+char: 智 count: 5  frequency : 0.0%
+char: 置 count: 3  frequency : 0.0%
+total count:58
+
+number of homophones4
+zuk6: ['族', '續', '逐', '俗'] 
+char: 族 count: 25  frequency : 0.0%
+char: 俗 count: 16  frequency : 0.0%
+char: 續 count: 13  frequency : 0.0%
+char: 逐 count: 2  frequency : 0.0%
+total count:56
+
+number of homophones4
+jau1: ['優', '休', '憂', '幽'] 
+char: 休 count: 16  frequency : 0.0%
+char: 優 count: 4  frequency : 0.0%
+char: 憂 count: 2  frequency : 0.0%
+char: 幽 count: 1  frequency : 0.0%
+total count:23
+
+number of homophones4
+fu6: ['負', '父', '附', '付'] 
+char: 父 count: 34  frequency : 0.0%
+char: 附 count: 10  frequency : 0.0%
+char: 負 count: 3  frequency : 0.0%
+char: 付 count: 2  frequency : 0.0%
+total count:49
+
+number of homophones4
+zi6: ['自', '字', '稚', '治'] 
+char: 自 count: 303  frequency : 0.0%
+char: 字 count: 42  frequency : 0.0%
+char: 稚 count: 17  frequency : 0.0%
+char: 治 count: 3  frequency : 0.0%
+total count:365
+
+number of homophones4
+zai3: ['濟', '製', '制', '𠶜'] 
+char: 制 count: 11  frequency : 0.0%
+char: 濟 count: 7  frequency : 0.0%
+char: 製 count: 3  frequency : 0.0%
+char: 𠶜 count: 1  frequency : 0.0%
+total count:22
+
+number of homophones4
+cing4: ['情', '程', '懲', '澄'] 
+char: 程 count: 61  frequency : 0.0%
+char: 情 count: 27  frequency : 0.0%
+char: 懲 count: 3  frequency : 0.0%
+char: 澄 count: 1  frequency : 0.0%
+total count:92
+
+number of homophones4
+jyun2: ['園', '院', '願', '丸'] 
+char: 園 count: 27  frequency : 0.0%
+char: 院 count: 15  frequency : 0.0%
+char: 願 count: 11  frequency : 0.0%
+char: 丸 count: 1  frequency : 0.0%
+total count:54
+
+number of homophones4
+fu3: ['富', '賦', '褲', '副'] 
+char: 富 count: 14  frequency : 0.0%
+char: 褲 count: 10  frequency : 0.0%
+char: 副 count: 5  frequency : 0.0%
+char: 賦 count: 1  frequency : 0.0%
+total count:30
+
+number of homophones4
+ging2: ['景', '境', '警', '竟'] 
+char: 境 count: 22  frequency : 0.0%
+char: 景 count: 8  frequency : 0.0%
+char: 竟 count: 6  frequency : 0.0%
+char: 警 count: 4  frequency : 0.0%
+total count:40
+
+number of homophones4
+ji6: ['二', '易', '義', '異'] 
+char: 二 count: 105  frequency : 0.0%
+char: 易 count: 42  frequency : 0.0%
+char: 義 count: 11  frequency : 0.0%
+char: 異 count: 1  frequency : 0.0%
+total count:159
+
+number of homophones4
+sing3: ['姓', '性', '聖', '勝'] 
+char: 聖 count: 24  frequency : 0.0%
+char: 性 count: 20  frequency : 0.0%
+char: 姓 count: 8  frequency : 0.0%
+char: 勝 count: 2  frequency : 0.0%
+total count:54
+
+number of homophones4
+seon4: ['純', '馴', '醇', '脣'] 
+char: 馴 count: 3  frequency : 0.0%
+char: 純 count: 2  frequency : 0.0%
+char: 醇 count: 2  frequency : 0.0%
+char: 脣 count: 1  frequency : 0.0%
+total count:8
+
+number of homophones4
+jyu6: ['愈', '裕', '遇', '預'] 
+char: 愈 count: 8  frequency : 0.0%
+char: 裕 count: 8  frequency : 0.0%
+char: 遇 count: 6  frequency : 0.0%
+char: 預 count: 3  frequency : 0.0%
+total count:25
+
+number of homophones4
+laap6: ['垃', '立', '蠟', '臘'] 
+char: 立 count: 29  frequency : 0.0%
+char: 蠟 count: 4  frequency : 0.0%
+char: 臘 count: 2  frequency : 0.0%
+char: 垃 count: 1  frequency : 0.0%
+total count:36
+
+number of homophones4
+cung1: ['沖', '衝', '囪', '聰'] 
+char: 沖 count: 13  frequency : 0.0%
+char: 聰 count: 11  frequency : 0.0%
+char: 衝 count: 5  frequency : 0.0%
+char: 囪 count: 1  frequency : 0.0%
+total count:30
+
+number of homophones4
+coeng4: ['場', '詳', '長', '牆'] 
+char: 長 count: 18  frequency : 0.0%
+char: 場 count: 8  frequency : 0.0%
+char: 詳 count: 4  frequency : 0.0%
+char: 牆 count: 3  frequency : 0.0%
+total count:33
+
+number of homophones4
+pou2: ['譜', '普', '袍', '舖'] 
+char: 普 count: 13  frequency : 0.0%
+char: 譜 count: 3  frequency : 0.0%
+char: 袍 count: 1  frequency : 0.0%
+char: 舖 count: 1  frequency : 0.0%
+total count:18
+
+number of homophones4
+mak6: ['默', '脈', '墨', '麥'] 
+char: 默 count: 4  frequency : 0.0%
+char: 脈 count: 1  frequency : 0.0%
+char: 墨 count: 1  frequency : 0.0%
+char: 麥 count: 1  frequency : 0.0%
+total count:7
+
+number of homophones3
+gan1: ['跟', '根', '筋'] 
+char: 跟 count: 109  frequency : 0.0%
+char: 根 count: 49  frequency : 0.0%
+char: 筋 count: 1  frequency : 0.0%
+total count:159
+
+number of homophones3
+jin4: ['然', '言', '研'] 
+char: 然 count: 90  frequency : 0.0%
+char: 言 count: 28  frequency : 0.0%
+char: 研 count: 5  frequency : 0.0%
+total count:123
+
+number of homophones3
+gu1: ['姑', '孤', '古'] 
+char: 孤 count: 7  frequency : 0.0%
+char: 姑 count: 3  frequency : 0.0%
+char: 古 count: 2  frequency : 0.0%
+total count:12
+
+number of homophones3
+maa4: ['嬤', '麻', '嫲'] 
+char: 嫲 count: 18  frequency : 0.0%
+char: 麻 count: 15  frequency : 0.0%
+char: 嬤 count: 6  frequency : 0.0%
+total count:39
+
+number of homophones3
+hai6: ['係', '系', '繫'] 
+char: 係 count: 5043  frequency : 0.0%
+char: 系 count: 96  frequency : 0.0%
+char: 繫 count: 1  frequency : 0.0%
+total count:5140
+
+number of homophones3
+dou6: ['度', '道', '導'] 
+char: 度 count: 372  frequency : 0.0%
+char: 道 count: 36  frequency : 0.0%
+char: 導 count: 3  frequency : 0.0%
+total count:411
+
+number of homophones3
+leon4: ['倫', '鄰', '輪'] 
+char: 倫 count: 41  frequency : 0.0%
+char: 鄰 count: 11  frequency : 0.0%
+char: 輪 count: 7  frequency : 0.0%
+total count:59
+
+number of homophones3
+sai3: ['世', '細', '勢'] 
+char: 細 count: 325  frequency : 0.0%
+char: 世 count: 66  frequency : 0.0%
+char: 勢 count: 3  frequency : 0.0%
+total count:394
+
+number of homophones3
+faan1: ['番', '翻', '返'] 
+char: 返 count: 277  frequency : 0.0%
+char: 翻 count: 12  frequency : 0.0%
+char: 番 count: 7  frequency : 0.0%
+total count:296
+
+number of homophones3
+waak6: ['或', '畫', '劃'] 
+char: 或 count: 114  frequency : 0.0%
+char: 畫 count: 2  frequency : 0.0%
+char: 劃 count: 1  frequency : 0.0%
+total count:117
+
+number of homophones3
+gau2: ['九', '久', '狗'] 
+char: 九 count: 76  frequency : 0.0%
+char: 久 count: 3  frequency : 0.0%
+char: 狗 count: 2  frequency : 0.0%
+total count:81
+
+number of homophones3
+gei3: ['記', '既', '寄'] 
+char: 記 count: 163  frequency : 0.0%
+char: 既 count: 16  frequency : 0.0%
+char: 寄 count: 3  frequency : 0.0%
+total count:182
+
+number of homophones3
+je5: ['嘢', '惹', '野'] 
+char: 嘢 count: 645  frequency : 0.0%
+char: 惹 count: 2  frequency : 0.0%
+char: 野 count: 2  frequency : 0.0%
+total count:649
+
+number of homophones3
+ting4: ['停', '庭', '亭'] 
+char: 庭 count: 41  frequency : 0.0%
+char: 停 count: 19  frequency : 0.0%
+char: 亭 count: 1  frequency : 0.0%
+total count:61
+
+number of homophones3
+daan6: ['但', '蛋', '彈'] 
+char: 但 count: 498  frequency : 0.0%
+char: 彈 count: 5  frequency : 0.0%
+char: 蛋 count: 3  frequency : 0.0%
+total count:506
+
+number of homophones3
+haa6: ['下', '廈', '夏'] 
+char: 下 count: 44  frequency : 0.0%
+char: 夏 count: 7  frequency : 0.0%
+char: 廈 count: 3  frequency : 0.0%
+total count:54
+
+number of homophones3
+lai4: ['黎', '嚟', '來'] 
+char: 嚟 count: 182  frequency : 0.0%
+char: 黎 count: 24  frequency : 0.0%
+char: 來 count: 19  frequency : 0.0%
+total count:225
+
+number of homophones3
+wan2: ['搵', '揾', '穩'] 
+char: 搵 count: 103  frequency : 0.0%
+char: 揾 count: 2  frequency : 0.0%
+char: 穩 count: 1  frequency : 0.0%
+total count:106
+
+number of homophones3
+saai3: ['曬', '晒', '嗮'] 
+char: 晒 count: 46  frequency : 0.0%
+char: 曬 count: 37  frequency : 0.0%
+char: 嗮 count: 22  frequency : 0.0%
+total count:105
+
+number of homophones3
+bok3: ['駁', '搏', '博'] 
+char: 駁 count: 10  frequency : 0.0%
+char: 搏 count: 3  frequency : 0.0%
+char: 博 count: 2  frequency : 0.0%
+total count:15
+
+number of homophones3
+sou3: ['數', '掃', '素'] 
+char: 數 count: 122  frequency : 0.0%
+char: 掃 count: 3  frequency : 0.0%
+char: 素 count: 2  frequency : 0.0%
+total count:127
+
+number of homophones3
+zoeng6: ['丈', '象', '像'] 
+char: 象 count: 8  frequency : 0.0%
+char: 丈 count: 4  frequency : 0.0%
+char: 像 count: 1  frequency : 0.0%
+total count:13
+
+number of homophones3
+haai4: ['孩', '鞋', '諧'] 
+char: 孩 count: 18  frequency : 0.0%
+char: 鞋 count: 5  frequency : 0.0%
+char: 諧 count: 1  frequency : 0.0%
+total count:24
+
+number of homophones3
+aa3: ['啊', '亞', '阿'] 
+char: 啊 count: 1987  frequency : 0.0%
+char: 阿 count: 51  frequency : 0.0%
+char: 亞 count: 10  frequency : 0.0%
+total count:2048
+
+number of homophones3
+baa1: ['爸', '巴', '吧'] 
+char: 爸 count: 163  frequency : 0.0%
+char: 巴 count: 22  frequency : 0.0%
+char: 吧 count: 6  frequency : 0.0%
+total count:191
+
+number of homophones3
+fu2: ['父', '府', '苦'] 
+char: 府 count: 46  frequency : 0.0%
+char: 苦 count: 32  frequency : 0.0%
+char: 父 count: 8  frequency : 0.0%
+total count:86
+
+number of homophones3
+zo2: ['咗', '左', '阻'] 
+char: 咗 count: 566  frequency : 0.0%
+char: 左 count: 3  frequency : 0.0%
+char: 阻 count: 3  frequency : 0.0%
+total count:572
+
+number of homophones3
+zing3: ['正', '政', '證'] 
+char: 政 count: 55  frequency : 0.0%
+char: 正 count: 35  frequency : 0.0%
+char: 證 count: 4  frequency : 0.0%
+total count:94
+
+number of homophones3
+lou2: ['佬', '路', '勞'] 
+char: 佬 count: 36  frequency : 0.0%
+char: 路 count: 19  frequency : 0.0%
+char: 勞 count: 1  frequency : 0.0%
+total count:56
+
+number of homophones3
+lei4: ['嚟', '離', '籬'] 
+char: 嚟 count: 308  frequency : 0.0%
+char: 離 count: 23  frequency : 0.0%
+char: 籬 count: 13  frequency : 0.0%
+total count:344
+
+number of homophones3
+duk6: ['讀', '毒', '獨'] 
+char: 讀 count: 332  frequency : 0.0%
+char: 獨 count: 10  frequency : 0.0%
+char: 毒 count: 1  frequency : 0.0%
+total count:343
+
+number of homophones3
+syu1: ['書', '舒', '輸'] 
+char: 書 count: 153  frequency : 0.0%
+char: 舒 count: 11  frequency : 0.0%
+char: 輸 count: 2  frequency : 0.0%
+total count:166
+
+number of homophones3
+maa5: ['嘛', '馬', '碼'] 
+char: 嘛 count: 245  frequency : 0.0%
+char: 碼 count: 17  frequency : 0.0%
+char: 馬 count: 7  frequency : 0.0%
+total count:269
+
+number of homophones3
+gok3: ['覺', '各', '角'] 
+char: 覺 count: 404  frequency : 0.0%
+char: 角 count: 6  frequency : 0.0%
+char: 各 count: 5  frequency : 0.0%
+total count:415
+
+number of homophones3
+tou4: ['徒', '圖', '逃'] 
+char: 徒 count: 19  frequency : 0.0%
+char: 圖 count: 4  frequency : 0.0%
+char: 逃 count: 2  frequency : 0.0%
+total count:25
+
+number of homophones3
+seoi1: ['雖', '需', '衰'] 
+char: 需 count: 33  frequency : 0.0%
+char: 雖 count: 16  frequency : 0.0%
+char: 衰 count: 7  frequency : 0.0%
+total count:56
+
+number of homophones3
+bat1: ['不', '筆', '畢'] 
+char: 不 count: 205  frequency : 0.0%
+char: 畢 count: 31  frequency : 0.0%
+char: 筆 count: 3  frequency : 0.0%
+total count:239
+
+number of homophones3
+dou3: ['到', '道', '妒'] 
+char: 到 count: 141  frequency : 0.0%
+char: 道 count: 71  frequency : 0.0%
+char: 妒 count: 3  frequency : 0.0%
+total count:215
+
+number of homophones3
+gei2: ['幾', '己', '紀'] 
+char: 己 count: 259  frequency : 0.0%
+char: 幾 count: 257  frequency : 0.0%
+char: 紀 count: 14  frequency : 0.0%
+total count:530
+
+number of homophones3
+lau4: ['留', '樓', '流'] 
+char: 留 count: 23  frequency : 0.0%
+char: 樓 count: 16  frequency : 0.0%
+char: 流 count: 9  frequency : 0.0%
+total count:48
+
+number of homophones3
+faat3: ['發', '法', '髮'] 
+char: 發 count: 103  frequency : 0.0%
+char: 法 count: 62  frequency : 0.0%
+char: 髮 count: 2  frequency : 0.0%
+total count:167
+
+number of homophones3
+bou3: ['報', '佈', '布'] 
+char: 報 count: 15  frequency : 0.0%
+char: 佈 count: 1  frequency : 0.0%
+char: 布 count: 1  frequency : 0.0%
+total count:17
+
+number of homophones3
+fan1: ['分', '婚', '氛'] 
+char: 分 count: 81  frequency : 0.0%
+char: 婚 count: 41  frequency : 0.0%
+char: 氛 count: 2  frequency : 0.0%
+total count:124
+
+number of homophones3
+dung6: ['衕', '動', '棟'] 
+char: 動 count: 27  frequency : 0.0%
+char: 衕 count: 10  frequency : 0.0%
+char: 棟 count: 2  frequency : 0.0%
+total count:39
+
+number of homophones3
+wai3: ['餵', '畏', '慧'] 
+char: 餵 count: 12  frequency : 0.0%
+char: 畏 count: 1  frequency : 0.0%
+char: 慧 count: 1  frequency : 0.0%
+total count:14
+
+number of homophones3
+fei1: ['飛', '非', '菲'] 
+char: 非 count: 18  frequency : 0.0%
+char: 飛 count: 14  frequency : 0.0%
+char: 菲 count: 4  frequency : 0.0%
+total count:36
+
+number of homophones3
+muk6: ['目', '牧', '木'] 
+char: 目 count: 22  frequency : 0.0%
+char: 牧 count: 7  frequency : 0.0%
+char: 木 count: 6  frequency : 0.0%
+total count:35
+
+number of homophones3
+zing6: ['靜', '淨', '剩'] 
+char: 剩 count: 42  frequency : 0.0%
+char: 靜 count: 26  frequency : 0.0%
+char: 淨 count: 26  frequency : 0.0%
+total count:94
+
+number of homophones3
+sing4: ['城', '成', '承'] 
+char: 成 count: 36  frequency : 0.0%
+char: 城 count: 23  frequency : 0.0%
+char: 承 count: 2  frequency : 0.0%
+total count:61
+
+number of homophones3
+wan6: ['混', '暈', '運'] 
+char: 運 count: 17  frequency : 0.0%
+char: 混 count: 7  frequency : 0.0%
+char: 暈 count: 1  frequency : 0.0%
+total count:25
+
+number of homophones3
+teng1: ['聽', '聼', '廳'] 
+char: 聽 count: 129  frequency : 0.0%
+char: 聼 count: 8  frequency : 0.0%
+char: 廳 count: 5  frequency : 0.0%
+total count:142
+
+number of homophones3
+jin2: ['然', '現', '演'] 
+char: 然 count: 39  frequency : 0.0%
+char: 現 count: 1  frequency : 0.0%
+char: 演 count: 1  frequency : 0.0%
+total count:41
+
+number of homophones3
+zeoi6: ['罪', '聚', '序'] 
+char: 聚 count: 5  frequency : 0.0%
+char: 罪 count: 2  frequency : 0.0%
+char: 序 count: 2  frequency : 0.0%
+total count:9
+
+number of homophones3
+maan6: ['萬', '慢', '漫'] 
+char: 慢 count: 24  frequency : 0.0%
+char: 萬 count: 15  frequency : 0.0%
+char: 漫 count: 1  frequency : 0.0%
+total count:40
+
+number of homophones3
+taai3: ['太', '態', '泰'] 
+char: 太 count: 76  frequency : 0.0%
+char: 態 count: 9  frequency : 0.0%
+char: 泰 count: 3  frequency : 0.0%
+total count:88
+
+number of homophones3
+jyut6: ['越', '月', '説'] 
+char: 月 count: 37  frequency : 0.0%
+char: 越 count: 35  frequency : 0.0%
+char: 説 count: 1  frequency : 0.0%
+total count:73
+
+number of homophones3
+fu4: ['乎', '符', '扶'] 
+char: 乎 count: 12  frequency : 0.0%
+char: 符 count: 1  frequency : 0.0%
+char: 扶 count: 1  frequency : 0.0%
+total count:14
+
+number of homophones3
+ceoi4: ['隨', '除', '廚'] 
+char: 除 count: 29  frequency : 0.0%
+char: 隨 count: 10  frequency : 0.0%
+char: 廚 count: 7  frequency : 0.0%
+total count:46
+
+number of homophones3
+tou3: ['吐', '套', '兔'] 
+char: 套 count: 4  frequency : 0.0%
+char: 吐 count: 1  frequency : 0.0%
+char: 兔 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones3
+juk6: ['肉', '育', '獄'] 
+char: 育 count: 22  frequency : 0.0%
+char: 肉 count: 7  frequency : 0.0%
+char: 獄 count: 1  frequency : 0.0%
+total count:30
+
+number of homophones3
+syun1: ['酸', '孫', '宣'] 
+char: 酸 count: 2  frequency : 0.0%
+char: 孫 count: 2  frequency : 0.0%
+char: 宣 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones3
+zan3: ['鎮', '震', '振'] 
+char: 鎮 count: 1  frequency : 0.0%
+char: 震 count: 1  frequency : 0.0%
+char: 振 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones3
+cung4: ['從', '松', '蟲'] 
+char: 從 count: 17  frequency : 0.0%
+char: 松 count: 3  frequency : 0.0%
+char: 蟲 count: 2  frequency : 0.0%
+total count:22
+
+number of homophones3
+sat1: ['失', '膝', '室'] 
+char: 失 count: 2  frequency : 0.0%
+char: 膝 count: 2  frequency : 0.0%
+char: 室 count: 2  frequency : 0.0%
+total count:6
+
+number of homophones3
+gau3: ['救', '夠', '究'] 
+char: 夠 count: 32  frequency : 0.0%
+char: 究 count: 8  frequency : 0.0%
+char: 救 count: 3  frequency : 0.0%
+total count:43
+
+number of homophones3
+gam2: ['感', '敢', '噉'] 
+char: 噉 count: 163  frequency : 0.0%
+char: 敢 count: 17  frequency : 0.0%
+char: 感 count: 15  frequency : 0.0%
+total count:195
+
+number of homophones3
+hang4: ['行', '衡', '拫'] 
+char: 行 count: 22  frequency : 0.0%
+char: 拫 count: 3  frequency : 0.0%
+char: 衡 count: 1  frequency : 0.0%
+total count:26
+
+number of homophones3
+diu3: ['釣', '吊', '弔'] 
+char: 釣 count: 2  frequency : 0.0%
+char: 吊 count: 1  frequency : 0.0%
+char: 弔 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones3
+gaak3: ['隔', '格', '𠺝'] 
+char: 隔 count: 26  frequency : 0.0%
+char: 格 count: 12  frequency : 0.0%
+char: 𠺝 count: 1  frequency : 0.0%
+total count:39
+
+number of homophones3
+jau2: ['右', '油', '友'] 
+char: 油 count: 2  frequency : 0.0%
+char: 右 count: 1  frequency : 0.0%
+char: 友 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones3
+sam1: ['心', '芯', '深'] 
+char: 心 count: 84  frequency : 0.0%
+char: 深 count: 9  frequency : 0.0%
+char: 芯 count: 1  frequency : 0.0%
+total count:94
+
+number of homophones3
+mai4: ['迷', '謎', '瞇'] 
+char: 迷 count: 2  frequency : 0.0%
+char: 謎 count: 1  frequency : 0.0%
+char: 瞇 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones3
+zyun1: ['尊', '專', '鑽'] 
+char: 尊 count: 17  frequency : 0.0%
+char: 專 count: 16  frequency : 0.0%
+char: 鑽 count: 2  frequency : 0.0%
+total count:35
+
+number of homophones3
+zo6: ['助', '坐', '座'] 
+char: 助 count: 24  frequency : 0.0%
+char: 座 count: 9  frequency : 0.0%
+char: 坐 count: 1  frequency : 0.0%
+total count:34
+
+number of homophones3
+pui4: ['賠', '陪', '培'] 
+char: 陪 count: 20  frequency : 0.0%
+char: 賠 count: 2  frequency : 0.0%
+char: 培 count: 2  frequency : 0.0%
+total count:24
+
+number of homophones3
+soeng4: ['償', '常', '嘗'] 
+char: 常 count: 43  frequency : 0.0%
+char: 償 count: 1  frequency : 0.0%
+char: 嘗 count: 1  frequency : 0.0%
+total count:45
+
+number of homophones3
+leoi5: ['旅', '累', '裡'] 
+char: 旅 count: 15  frequency : 0.0%
+char: 裡 count: 6  frequency : 0.0%
+char: 累 count: 1  frequency : 0.0%
+total count:22
+
+number of homophones3
+ho4: ['何', '河', '荷'] 
+char: 何 count: 7  frequency : 0.0%
+char: 河 count: 3  frequency : 0.0%
+char: 荷 count: 3  frequency : 0.0%
+total count:13
+
+number of homophones3
+hei1: ['希', '犧', '羲'] 
+char: 希 count: 27  frequency : 0.0%
+char: 犧 count: 1  frequency : 0.0%
+char: 羲 count: 1  frequency : 0.0%
+total count:29
+
+number of homophones3
+jyu5: ['語', '與', '雨'] 
+char: 語 count: 73  frequency : 0.0%
+char: 與 count: 7  frequency : 0.0%
+char: 雨 count: 2  frequency : 0.0%
+total count:82
+
+number of homophones3
+ci2: ['始', '此', '齒'] 
+char: 始 count: 48  frequency : 0.0%
+char: 此 count: 2  frequency : 0.0%
+char: 齒 count: 1  frequency : 0.0%
+total count:51
+
+number of homophones3
+joeng5: ['仰', '養', '氧'] 
+char: 養 count: 9  frequency : 0.0%
+char: 仰 count: 1  frequency : 0.0%
+char: 氧 count: 1  frequency : 0.0%
+total count:11
+
+number of homophones3
+sing1: ['昇', '星', '升'] 
+char: 星 count: 18  frequency : 0.0%
+char: 升 count: 7  frequency : 0.0%
+char: 昇 count: 2  frequency : 0.0%
+total count:27
+
+number of homophones3
+gaai3: ['界', '介', '戒'] 
+char: 界 count: 14  frequency : 0.0%
+char: 介 count: 6  frequency : 0.0%
+char: 戒 count: 2  frequency : 0.0%
+total count:22
+
+number of homophones3
+coi2: ['彩', '睬', '采'] 
+char: 彩 count: 10  frequency : 0.0%
+char: 睬 count: 4  frequency : 0.0%
+char: 采 count: 1  frequency : 0.0%
+total count:15
+
+number of homophones3
+sai2: ['駛', '洗', '使'] 
+char: 洗 count: 65  frequency : 0.0%
+char: 使 count: 13  frequency : 0.0%
+char: 駛 count: 3  frequency : 0.0%
+total count:81
+
+number of homophones3
+faan6: ['飯', '範', '犯'] 
+char: 飯 count: 47  frequency : 0.0%
+char: 犯 count: 6  frequency : 0.0%
+char: 範 count: 3  frequency : 0.0%
+total count:56
+
+number of homophones3
+lou4: ['勞', '爐', '廬'] 
+char: 勞 count: 9  frequency : 0.0%
+char: 爐 count: 4  frequency : 0.0%
+char: 廬 count: 1  frequency : 0.0%
+total count:14
+
+number of homophones3
+ling4: ['齡', '靈', '零'] 
+char: 零 count: 6  frequency : 0.0%
+char: 齡 count: 3  frequency : 0.0%
+char: 靈 count: 2  frequency : 0.0%
+total count:11
+
+number of homophones3
+cyun4: ['全', '存', '傳'] 
+char: 全 count: 111  frequency : 0.0%
+char: 傳 count: 15  frequency : 0.0%
+char: 存 count: 6  frequency : 0.0%
+total count:132
+
+number of homophones3
+sau2: ['手', '首', '守'] 
+char: 手 count: 31  frequency : 0.0%
+char: 首 count: 2  frequency : 0.0%
+char: 守 count: 2  frequency : 0.0%
+total count:35
+
+number of homophones3
+gwai3: ['貴', '季', '桂'] 
+char: 貴 count: 18  frequency : 0.0%
+char: 季 count: 2  frequency : 0.0%
+char: 桂 count: 2  frequency : 0.0%
+total count:22
+
+number of homophones3
+wan4: ['魂', '暈', '雲'] 
+char: 魂 count: 1  frequency : 0.0%
+char: 暈 count: 1  frequency : 0.0%
+char: 雲 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones3
+waan4: ['環', '還', '灣'] 
+char: 環 count: 25  frequency : 0.0%
+char: 灣 count: 4  frequency : 0.0%
+char: 還 count: 2  frequency : 0.0%
+total count:31
+
+number of homophones3
+toi4: ['臺', '台', '抬'] 
+char: 臺 count: 11  frequency : 0.0%
+char: 台 count: 1  frequency : 0.0%
+char: 抬 count: 1  frequency : 0.0%
+total count:13
+
+number of homophones3
+zang1: ['掙', '爭', '憎'] 
+char: 爭 count: 6  frequency : 0.0%
+char: 憎 count: 2  frequency : 0.0%
+char: 掙 count: 1  frequency : 0.0%
+total count:9
+
+number of homophones3
+waa1: ['哇', '喎', '撶'] 
+char: 哇 count: 64  frequency : 0.0%
+char: 喎 count: 6  frequency : 0.0%
+char: 撶 count: 1  frequency : 0.0%
+total count:71
+
+number of homophones3
+ceoi3: ['趣', '脆', '翠'] 
+char: 趣 count: 24  frequency : 0.0%
+char: 脆 count: 4  frequency : 0.0%
+char: 翠 count: 4  frequency : 0.0%
+total count:32
+
+number of homophones3
+biu1: ['飆', '標', '錶'] 
+char: 標 count: 8  frequency : 0.0%
+char: 錶 count: 2  frequency : 0.0%
+char: 飆 count: 1  frequency : 0.0%
+total count:11
+
+number of homophones3
+joeng4: ['羊', '陽', '洋'] 
+char: 陽 count: 3  frequency : 0.0%
+char: 羊 count: 1  frequency : 0.0%
+char: 洋 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones3
+mat6: ['密', '物', '襪'] 
+char: 物 count: 18  frequency : 0.0%
+char: 密 count: 7  frequency : 0.0%
+char: 襪 count: 1  frequency : 0.0%
+total count:26
+
+number of homophones3
+dai2: ['抵', '底', '弟'] 
+char: 底 count: 13  frequency : 0.0%
+char: 抵 count: 3  frequency : 0.0%
+char: 弟 count: 2  frequency : 0.0%
+total count:18
+
+number of homophones3
+zaap6: ['雜', '習', '集'] 
+char: 習 count: 14  frequency : 0.0%
+char: 雜 count: 1  frequency : 0.0%
+char: 集 count: 1  frequency : 0.0%
+total count:16
+
+number of homophones3
+fo2: ['火', '夥', '顆'] 
+char: 火 count: 7  frequency : 0.0%
+char: 夥 count: 4  frequency : 0.0%
+char: 顆 count: 1  frequency : 0.0%
+total count:12
+
+number of homophones3
+coeng1: ['槍', '窗', '昌'] 
+char: 窗 count: 3  frequency : 0.0%
+char: 昌 count: 2  frequency : 0.0%
+char: 槍 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones3
+cong4: ['床', '幢', '牀'] 
+char: 床 count: 5  frequency : 0.0%
+char: 牀 count: 3  frequency : 0.0%
+char: 幢 count: 1  frequency : 0.0%
+total count:9
+
+number of homophones3
+sou2: ['掃', '數', '嫂'] 
+char: 掃 count: 3  frequency : 0.0%
+char: 數 count: 1  frequency : 0.0%
+char: 嫂 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones3
+zeon2: ['準', '准', '儘'] 
+char: 準 count: 35  frequency : 0.0%
+char: 准 count: 1  frequency : 0.0%
+char: 儘 count: 1  frequency : 0.0%
+total count:37
+
+number of homophones3
+lam4: ['臨', '林', '霖'] 
+char: 霖 count: 34  frequency : 0.0%
+char: 臨 count: 6  frequency : 0.0%
+char: 林 count: 4  frequency : 0.0%
+total count:44
+
+number of homophones3
+fai3: ['費', '肺', '廢'] 
+char: 費 count: 7  frequency : 0.0%
+char: 肺 count: 2  frequency : 0.0%
+char: 廢 count: 1  frequency : 0.0%
+total count:10
+
+number of homophones3
+zeon1: ['尊', '津', '樽'] 
+char: 樽 count: 3  frequency : 0.0%
+char: 津 count: 2  frequency : 0.0%
+char: 尊 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones3
+gwaa3: ['掛', '啩', '卦'] 
+char: 掛 count: 11  frequency : 0.0%
+char: 啩 count: 5  frequency : 0.0%
+char: 卦 count: 1  frequency : 0.0%
+total count:17
+
+number of homophones3
+zyu1: ['朱', '豬', '珠'] 
+char: 朱 count: 2  frequency : 0.0%
+char: 珠 count: 2  frequency : 0.0%
+char: 豬 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones3
+zou1: ['租', '糟', '遭'] 
+char: 租 count: 18  frequency : 0.0%
+char: 糟 count: 2  frequency : 0.0%
+char: 遭 count: 1  frequency : 0.0%
+total count:21
+
+number of homophones3
+ji2: ['二', '咦', '倚'] 
+char: 咦 count: 5  frequency : 0.0%
+char: 二 count: 2  frequency : 0.0%
+char: 倚 count: 2  frequency : 0.0%
+total count:9
+
+number of homophones3
+zong6: ['臟', '狀', '撞'] 
+char: 撞 count: 16  frequency : 0.0%
+char: 臟 count: 1  frequency : 0.0%
+char: 狀 count: 1  frequency : 0.0%
+total count:18
+
+number of homophones2
+gai3: ['計', '繼'] 
+char: 計 count: 23  frequency : 0.0%
+char: 繼 count: 11  frequency : 0.0%
+total count:34
+
+number of homophones2
+maa1: ['媽', '嬤'] 
+char: 媽 count: 205  frequency : 0.0%
+char: 嬤 count: 3  frequency : 0.0%
+total count:208
+
+number of homophones2
+dei2: ['哋', '地'] 
+char: 哋 count: 57  frequency : 0.0%
+char: 地 count: 5  frequency : 0.0%
+total count:62
+
+number of homophones2
+hau6: ['後', '候'] 
+char: 後 count: 160  frequency : 0.0%
+char: 候 count: 59  frequency : 0.0%
+total count:219
+
+number of homophones2
+jau5: ['有', '友'] 
+char: 有 count: 1613  frequency : 0.0%
+char: 友 count: 143  frequency : 0.0%
+total count:1756
+
+number of homophones2
+baak3: ['伯', '百'] 
+char: 百 count: 19  frequency : 0.0%
+char: 伯 count: 1  frequency : 0.0%
+total count:20
+
+number of homophones2
+me1: ['咩', '孭'] 
+char: 咩 count: 150  frequency : 0.0%
+char: 孭 count: 1  frequency : 0.0%
+total count:151
+
+number of homophones2
+po1: ['婆', '棵'] 
+char: 婆 count: 3  frequency : 0.0%
+char: 棵 count: 2  frequency : 0.0%
+total count:5
+
+number of homophones2
+tung4: ['同', '童'] 
+char: 同 count: 580  frequency : 0.0%
+char: 童 count: 13  frequency : 0.0%
+total count:593
+
+number of homophones2
+lo1: ['囉', '攞'] 
+char: 囉 count: 818  frequency : 0.0%
+char: 攞 count: 6  frequency : 0.0%
+total count:824
+
+number of homophones2
+ni1: ['呢', '哩'] 
+char: 呢 count: 416  frequency : 0.0%
+char: 哩 count: 56  frequency : 0.0%
+total count:472
+
+number of homophones2
+ceot1: ['出', '齣'] 
+char: 出 count: 266  frequency : 0.0%
+char: 齣 count: 2  frequency : 0.0%
+total count:268
+
+number of homophones2
+dou1: ['都', '刀'] 
+char: 都 count: 1866  frequency : 0.0%
+char: 刀 count: 1  frequency : 0.0%
+total count:1867
+
+number of homophones2
+joeng6: ['樣', '讓'] 
+char: 樣 count: 100  frequency : 0.0%
+char: 讓 count: 1  frequency : 0.0%
+total count:101
+
+number of homophones2
+hoeng1: ['香', '鄉'] 
+char: 香 count: 235  frequency : 0.0%
+char: 鄉 count: 1  frequency : 0.0%
+total count:236
+
+number of homophones2
+gong2: ['港', '講'] 
+char: 講 count: 426  frequency : 0.0%
+char: 港 count: 231  frequency : 0.0%
+total count:657
+
+number of homophones2
+ze2: ['者', '姐'] 
+char: 者 count: 113  frequency : 0.0%
+char: 姐 count: 12  frequency : 0.0%
+total count:125
+
+number of homophones2
+gaai1: ['街', '階'] 
+char: 街 count: 40  frequency : 0.0%
+char: 階 count: 6  frequency : 0.0%
+total count:46
+
+number of homophones2
+zou6: ['做', '造'] 
+char: 做 count: 628  frequency : 0.0%
+char: 造 count: 3  frequency : 0.0%
+total count:631
+
+number of homophones2
+saam1: ['三', '衫'] 
+char: 三 count: 129  frequency : 0.0%
+char: 衫 count: 19  frequency : 0.0%
+total count:148
+
+number of homophones2
+dak1: ['得', '德'] 
+char: 得 count: 821  frequency : 0.0%
+char: 德 count: 10  frequency : 0.0%
+total count:831
+
+number of homophones2
+mei5: ['美', '尾'] 
+char: 美 count: 20  frequency : 0.0%
+char: 尾 count: 7  frequency : 0.0%
+total count:27
+
+number of homophones2
+ji3: ['意', '以'] 
+char: 意 count: 202  frequency : 0.0%
+char: 以 count: 1  frequency : 0.0%
+total count:203
+
+number of homophones2
+zung2: ['總', '種'] 
+char: 種 count: 51  frequency : 0.0%
+char: 總 count: 12  frequency : 0.0%
+total count:63
+
+number of homophones2
+siu2: ['少', '小'] 
+char: 少 count: 192  frequency : 0.0%
+char: 小 count: 91  frequency : 0.0%
+total count:283
+
+number of homophones2
+mei6: ['未', '味'] 
+char: 未 count: 110  frequency : 0.0%
+char: 味 count: 1  frequency : 0.0%
+total count:111
+
+number of homophones2
+jing1: ['應', '英'] 
+char: 英 count: 189  frequency : 0.0%
+char: 應 count: 111  frequency : 0.0%
+total count:300
+
+number of homophones2
+ci3: ['次', '廁'] 
+char: 次 count: 145  frequency : 0.0%
+char: 廁 count: 11  frequency : 0.0%
+total count:156
+
+number of homophones2
+zeoi3: ['最', '醉'] 
+char: 最 count: 181  frequency : 0.0%
+char: 醉 count: 1  frequency : 0.0%
+total count:182
+
+number of homophones2
+ging6: ['勁', '競'] 
+char: 勁 count: 6  frequency : 0.0%
+char: 競 count: 1  frequency : 0.0%
+total count:7
+
+number of homophones2
+siu3: ['少', '笑'] 
+char: 笑 count: 27  frequency : 0.0%
+char: 少 count: 1  frequency : 0.0%
+total count:28
+
+number of homophones2
+lo2: ['攞', '囉'] 
+char: 攞 count: 41  frequency : 0.0%
+char: 囉 count: 2  frequency : 0.0%
+total count:43
+
+number of homophones2
+tai2: ['睇', '體'] 
+char: 睇 count: 225  frequency : 0.0%
+char: 體 count: 19  frequency : 0.0%
+total count:244
+
+number of homophones2
+fan3: ['瞓', '訓'] 
+char: 訓 count: 44  frequency : 0.0%
+char: 瞓 count: 21  frequency : 0.0%
+total count:65
+
+number of homophones2
+syut3: ['雪', '說'] 
+char: 雪 count: 21  frequency : 0.0%
+char: 說 count: 3  frequency : 0.0%
+total count:24
+
+number of homophones2
+gaan1: ['間', '艱'] 
+char: 間 count: 179  frequency : 0.0%
+char: 艱 count: 2  frequency : 0.0%
+total count:181
+
+number of homophones2
+nau2: ['扭', '紐'] 
+char: 扭 count: 3  frequency : 0.0%
+char: 紐 count: 3  frequency : 0.0%
+total count:6
+
+number of homophones2
+gai2: ['計', '偈'] 
+char: 計 count: 14  frequency : 0.0%
+char: 偈 count: 6  frequency : 0.0%
+total count:20
+
+number of homophones2
+zeoi2: ['嘴', '咀'] 
+char: 嘴 count: 6  frequency : 0.0%
+char: 咀 count: 1  frequency : 0.0%
+total count:7
+
+number of homophones2
+zaa1: ['揸', '抓'] 
+char: 揸 count: 55  frequency : 0.0%
+char: 抓 count: 3  frequency : 0.0%
+total count:58
+
+number of homophones2
+tai4: ['提', '題'] 
+char: 題 count: 71  frequency : 0.0%
+char: 提 count: 13  frequency : 0.0%
+total count:84
+
+number of homophones2
+noi6: ['耐', '內'] 
+char: 耐 count: 50  frequency : 0.0%
+char: 內 count: 6  frequency : 0.0%
+total count:56
+
+number of homophones2
+gin6: ['件', '健'] 
+char: 件 count: 10  frequency : 0.0%
+char: 健 count: 7  frequency : 0.0%
+total count:17
+
+number of homophones2
+keoi5: ['佢', '距'] 
+char: 佢 count: 1500  frequency : 0.0%
+char: 距 count: 2  frequency : 0.0%
+total count:1502
+
+number of homophones2
+dei6: ['地', '哋'] 
+char: 哋 count: 1138  frequency : 0.0%
+char: 地 count: 250  frequency : 0.0%
+total count:1388
+
+number of homophones2
+ng5: ['五', '午'] 
+char: 五 count: 77  frequency : 0.0%
+char: 午 count: 1  frequency : 0.0%
+total count:78
+
+number of homophones2
+lok3: ['咯', '絡'] 
+char: 咯 count: 215  frequency : 0.0%
+char: 絡 count: 2  frequency : 0.0%
+total count:217
+
+number of homophones2
+aa1: ['吖', '啊'] 
+char: 吖 count: 21  frequency : 0.0%
+char: 啊 count: 1  frequency : 0.0%
+total count:22
+
+number of homophones2
+fu1: ['夫', '呼'] 
+char: 夫 count: 6  frequency : 0.0%
+char: 呼 count: 6  frequency : 0.0%
+total count:12
+
+number of homophones2
+sang1: ['生', '牲'] 
+char: 生 count: 93  frequency : 0.0%
+char: 牲 count: 1  frequency : 0.0%
+total count:94
+
+number of homophones2
+hing1: ['兄', '興'] 
+char: 兄 count: 19  frequency : 0.0%
+char: 興 count: 4  frequency : 0.0%
+total count:23
+
+number of homophones2
+dai6: ['弟', '第'] 
+char: 第 count: 143  frequency : 0.0%
+char: 弟 count: 18  frequency : 0.0%
+total count:161
+
+number of homophones2
+mou2: ['母', '冇'] 
+char: 冇 count: 7  frequency : 0.0%
+char: 母 count: 3  frequency : 0.0%
+total count:10
+
+number of homophones2
+hei2: ['起', '喜'] 
+char: 起 count: 60  frequency : 0.0%
+char: 喜 count: 5  frequency : 0.0%
+total count:65
+
+number of homophones2
+go1: ['哥', '歌'] 
+char: 哥 count: 66  frequency : 0.0%
+char: 歌 count: 15  frequency : 0.0%
+total count:81
+
+number of homophones2
+cat1: ['七', '漆'] 
+char: 七 count: 55  frequency : 0.0%
+char: 漆 count: 1  frequency : 0.0%
+total count:56
+
+number of homophones2
+zoi3: ['再', '載'] 
+char: 再 count: 30  frequency : 0.0%
+char: 載 count: 1  frequency : 0.0%
+total count:31
+
+number of homophones2
+soeng2: ['想', '相'] 
+char: 想 count: 164  frequency : 0.0%
+char: 相 count: 17  frequency : 0.0%
+total count:181
+
+number of homophones2
+saang1: ['生', '甥'] 
+char: 生 count: 150  frequency : 0.0%
+char: 甥 count: 5  frequency : 0.0%
+total count:155
+
+number of homophones2
+cing1: ['青', '清'] 
+char: 清 count: 24  frequency : 0.0%
+char: 青 count: 11  frequency : 0.0%
+total count:35
+
+number of homophones2
+hoi1: ['開', '嗨'] 
+char: 開 count: 109  frequency : 0.0%
+char: 嗨 count: 1  frequency : 0.0%
+total count:110
+
+number of homophones2
+pang4: ['朋', '憑'] 
+char: 朋 count: 142  frequency : 0.0%
+char: 憑 count: 1  frequency : 0.0%
+total count:143
+
+number of homophones2
+fan6: ['分', '份'] 
+char: 份 count: 41  frequency : 0.0%
+char: 分 count: 21  frequency : 0.0%
+total count:62
+
+number of homophones2
+se2: ['寫', '捨'] 
+char: 寫 count: 63  frequency : 0.0%
+char: 捨 count: 7  frequency : 0.0%
+total count:70
+
+number of homophones2
+man2: ['文', '聞'] 
+char: 文 count: 248  frequency : 0.0%
+char: 聞 count: 5  frequency : 0.0%
+total count:253
+
+number of homophones2
+caa1: ['差', '叉'] 
+char: 差 count: 47  frequency : 0.0%
+char: 叉 count: 1  frequency : 0.0%
+total count:48
+
+number of homophones2
+zip3: ['接', '摺'] 
+char: 接 count: 54  frequency : 0.0%
+char: 摺 count: 1  frequency : 0.0%
+total count:55
+
+number of homophones2
+sai1: ['西', '犀'] 
+char: 西 count: 52  frequency : 0.0%
+char: 犀 count: 4  frequency : 0.0%
+total count:56
+
+number of homophones2
+haa1: ['哈', '蝦'] 
+char: 哈 count: 354  frequency : 0.0%
+char: 蝦 count: 2  frequency : 0.0%
+total count:356
+
+number of homophones2
+zaak3: ['窄', '責'] 
+char: 責 count: 5  frequency : 0.0%
+char: 窄 count: 3  frequency : 0.0%
+total count:8
+
+number of homophones2
+hyun1: ['圈', '喧'] 
+char: 圈 count: 4  frequency : 0.0%
+char: 喧 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+zyu2: ['主', '煮'] 
+char: 主 count: 49  frequency : 0.0%
+char: 煮 count: 23  frequency : 0.0%
+total count:72
+
+number of homophones2
+zan1: ['真', '珍'] 
+char: 真 count: 222  frequency : 0.0%
+char: 珍 count: 2  frequency : 0.0%
+total count:224
+
+number of homophones2
+sung3: ['餸', '送'] 
+char: 送 count: 11  frequency : 0.0%
+char: 餸 count: 3  frequency : 0.0%
+total count:14
+
+number of homophones2
+guk6: ['焗', '局'] 
+char: 局 count: 7  frequency : 0.0%
+char: 焗 count: 1  frequency : 0.0%
+total count:8
+
+number of homophones2
+seon3: ['信', '訊'] 
+char: 信 count: 33  frequency : 0.0%
+char: 訊 count: 1  frequency : 0.0%
+total count:34
+
+number of homophones2
+je4: ['耶', '爺'] 
+char: 爺 count: 7  frequency : 0.0%
+char: 耶 count: 4  frequency : 0.0%
+total count:11
+
+number of homophones2
+sou1: ['穌', '蘇'] 
+char: 穌 count: 4  frequency : 0.0%
+char: 蘇 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+fong2: ['訪', '房'] 
+char: 房 count: 20  frequency : 0.0%
+char: 訪 count: 2  frequency : 0.0%
+total count:22
+
+number of homophones2
+ling6: ['另', '令'] 
+char: 另 count: 20  frequency : 0.0%
+char: 令 count: 3  frequency : 0.0%
+total count:23
+
+number of homophones2
+hoeng2: ['響', '享'] 
+char: 響 count: 62  frequency : 0.0%
+char: 享 count: 1  frequency : 0.0%
+total count:63
+
+number of homophones2
+tau4: ['頭', '投'] 
+char: 頭 count: 47  frequency : 0.0%
+char: 投 count: 1  frequency : 0.0%
+total count:48
+
+number of homophones2
+zaam6: ['站', '暫'] 
+char: 暫 count: 12  frequency : 0.0%
+char: 站 count: 7  frequency : 0.0%
+total count:19
+
+number of homophones2
+ging1: ['經', '京'] 
+char: 經 count: 147  frequency : 0.0%
+char: 京 count: 5  frequency : 0.0%
+total count:152
+
+number of homophones2
+waa2: ['話', '畫'] 
+char: 話 count: 84  frequency : 0.0%
+char: 畫 count: 26  frequency : 0.0%
+total count:110
+
+number of homophones2
+zau2: ['走', '酒'] 
+char: 走 count: 68  frequency : 0.0%
+char: 酒 count: 31  frequency : 0.0%
+total count:99
+
+number of homophones2
+zaa3: ['咋', '詐'] 
+char: 咋 count: 46  frequency : 0.0%
+char: 詐 count: 2  frequency : 0.0%
+total count:48
+
+number of homophones2
+lou6: ['路', '露'] 
+char: 路 count: 150  frequency : 0.0%
+char: 露 count: 1  frequency : 0.0%
+total count:151
+
+number of homophones2
+haak1: ['刻', '黑'] 
+char: 刻 count: 18  frequency : 0.0%
+char: 黑 count: 14  frequency : 0.0%
+total count:32
+
+number of homophones2
+seng1: ['聲', '腥'] 
+char: 聲 count: 22  frequency : 0.0%
+char: 腥 count: 1  frequency : 0.0%
+total count:23
+
+number of homophones2
+saa1: ['沙', '紗'] 
+char: 沙 count: 6  frequency : 0.0%
+char: 紗 count: 1  frequency : 0.0%
+total count:7
+
+number of homophones2
+min6: ['面', '麵'] 
+char: 面 count: 80  frequency : 0.0%
+char: 麵 count: 4  frequency : 0.0%
+total count:84
+
+number of homophones2
+lok6: ['落', '樂'] 
+char: 落 count: 74  frequency : 0.0%
+char: 樂 count: 19  frequency : 0.0%
+total count:93
+
+number of homophones2
+haau6: ['校', '效'] 
+char: 校 count: 141  frequency : 0.0%
+char: 效 count: 3  frequency : 0.0%
+total count:144
+
+number of homophones2
+naap6: ['吶', '納'] 
+char: 吶 count: 3  frequency : 0.0%
+char: 納 count: 3  frequency : 0.0%
+total count:6
+
+number of homophones2
+saan1: ['閂', '山'] 
+char: 山 count: 8  frequency : 0.0%
+char: 閂 count: 3  frequency : 0.0%
+total count:11
+
+number of homophones2
+gin3: ['見', '建'] 
+char: 見 count: 135  frequency : 0.0%
+char: 建 count: 7  frequency : 0.0%
+total count:142
+
+number of homophones2
+dung1: ['東', '冬'] 
+char: 東 count: 50  frequency : 0.0%
+char: 冬 count: 3  frequency : 0.0%
+total count:53
+
+number of homophones2
+zoeng1: ['張', '將'] 
+char: 張 count: 17  frequency : 0.0%
+char: 將 count: 16  frequency : 0.0%
+total count:33
+
+number of homophones2
+faai3: ['快', '塊'] 
+char: 快 count: 42  frequency : 0.0%
+char: 塊 count: 4  frequency : 0.0%
+total count:46
+
+number of homophones2
+suk1: ['宿', '肅'] 
+char: 宿 count: 12  frequency : 0.0%
+char: 肅 count: 1  frequency : 0.0%
+total count:13
+
+number of homophones2
+ho2: ['可', '呵'] 
+char: 可 count: 384  frequency : 0.0%
+char: 呵 count: 2  frequency : 0.0%
+total count:386
+
+number of homophones2
+zou2: ['早', '組'] 
+char: 早 count: 39  frequency : 0.0%
+char: 組 count: 5  frequency : 0.0%
+total count:44
+
+number of homophones2
+mong4: ['忘', '忙'] 
+char: 忘 count: 2  frequency : 0.0%
+char: 忙 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+lik6: ['歷', '力'] 
+char: 力 count: 41  frequency : 0.0%
+char: 歷 count: 19  frequency : 0.0%
+total count:60
+
+number of homophones2
+si5: ['市', '試'] 
+char: 市 count: 29  frequency : 0.0%
+char: 試 count: 2  frequency : 0.0%
+total count:31
+
+number of homophones2
+haak3: ['客', '嚇'] 
+char: 嚇 count: 154  frequency : 0.0%
+char: 客 count: 10  frequency : 0.0%
+total count:164
+
+number of homophones2
+fong1: ['方', '坊'] 
+char: 方 count: 150  frequency : 0.0%
+char: 坊 count: 2  frequency : 0.0%
+total count:152
+
+number of homophones2
+zung6: ['仲', '重'] 
+char: 仲 count: 120  frequency : 0.0%
+char: 重 count: 26  frequency : 0.0%
+total count:146
+
+number of homophones2
+jing2: ['影', '認'] 
+char: 影 count: 45  frequency : 0.0%
+char: 認 count: 6  frequency : 0.0%
+total count:51
+
+number of homophones2
+bin6: ['便', '邊'] 
+char: 便 count: 45  frequency : 0.0%
+char: 邊 count: 2  frequency : 0.0%
+total count:47
+
+number of homophones2
+fuk6: ['服', '復'] 
+char: 服 count: 19  frequency : 0.0%
+char: 復 count: 7  frequency : 0.0%
+total count:26
+
+number of homophones2
+gong1: ['剛', '崗'] 
+char: 剛 count: 20  frequency : 0.0%
+char: 崗 count: 1  frequency : 0.0%
+total count:21
+
+number of homophones2
+bun1: ['搬', '般'] 
+char: 搬 count: 50  frequency : 0.0%
+char: 般 count: 26  frequency : 0.0%
+total count:76
+
+number of homophones2
+jik6: ['亦', '譯'] 
+char: 亦 count: 74  frequency : 0.0%
+char: 譯 count: 5  frequency : 0.0%
+total count:79
+
+number of homophones2
+sau6: ['受', '授'] 
+char: 受 count: 18  frequency : 0.0%
+char: 授 count: 2  frequency : 0.0%
+total count:20
+
+number of homophones2
+gan2: ['緊', '謹'] 
+char: 緊 count: 96  frequency : 0.0%
+char: 謹 count: 2  frequency : 0.0%
+total count:98
+
+number of homophones2
+cing2: ['情', '請'] 
+char: 請 count: 2  frequency : 0.0%
+char: 情 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+pei3: ['譬', '屁'] 
+char: 譬 count: 99  frequency : 0.0%
+char: 屁 count: 3  frequency : 0.0%
+total count:102
+
+number of homophones2
+fong3: ['放', '況'] 
+char: 放 count: 50  frequency : 0.0%
+char: 況 count: 5  frequency : 0.0%
+total count:55
+
+number of homophones2
+ban1: ['濱', '賓'] 
+char: 賓 count: 2  frequency : 0.0%
+char: 濱 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+bik1: ['逼', '迫'] 
+char: 逼 count: 11  frequency : 0.0%
+char: 迫 count: 1  frequency : 0.0%
+total count:12
+
+number of homophones2
+gwat1: ['骨', '滑'] 
+char: 骨 count: 2  frequency : 0.0%
+char: 滑 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+caan2: ['鏟', '產'] 
+char: 鏟 count: 6  frequency : 0.0%
+char: 產 count: 2  frequency : 0.0%
+total count:8
+
+number of homophones2
+git3: ['結', '潔'] 
+char: 結 count: 31  frequency : 0.0%
+char: 潔 count: 4  frequency : 0.0%
+total count:35
+
+number of homophones2
+wat1: ['鬱', '屈'] 
+char: 鬱 count: 5  frequency : 0.0%
+char: 屈 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones2
+mou4: ['無', '毛'] 
+char: 無 count: 12  frequency : 0.0%
+char: 毛 count: 3  frequency : 0.0%
+total count:15
+
+number of homophones2
+hon4: ['韓', '寒'] 
+char: 韓 count: 10  frequency : 0.0%
+char: 寒 count: 3  frequency : 0.0%
+total count:13
+
+number of homophones2
+fau6: ['埠', '阜'] 
+char: 埠 count: 2  frequency : 0.0%
+char: 阜 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+daai2: ['大', '帶'] 
+char: 大 count: 9  frequency : 0.0%
+char: 帶 count: 2  frequency : 0.0%
+total count:11
+
+number of homophones2
+wu6: ['互', '護'] 
+char: 護 count: 13  frequency : 0.0%
+char: 互 count: 7  frequency : 0.0%
+total count:20
+
+number of homophones2
+haan4: ['閒', '閑'] 
+char: 閒 count: 10  frequency : 0.0%
+char: 閑 count: 1  frequency : 0.0%
+total count:11
+
+number of homophones2
+zin2: ['剪', '展'] 
+char: 剪 count: 6  frequency : 0.0%
+char: 展 count: 5  frequency : 0.0%
+total count:11
+
+number of homophones2
+gaau1: ['交', '膠'] 
+char: 交 count: 29  frequency : 0.0%
+char: 膠 count: 1  frequency : 0.0%
+total count:30
+
+number of homophones2
+zap1: ['執', '汁'] 
+char: 執 count: 12  frequency : 0.0%
+char: 汁 count: 2  frequency : 0.0%
+total count:14
+
+number of homophones2
+miu6: ['妙', '廟'] 
+char: 妙 count: 3  frequency : 0.0%
+char: 廟 count: 2  frequency : 0.0%
+total count:5
+
+number of homophones2
+ming4: ['名', '明'] 
+char: 明 count: 48  frequency : 0.0%
+char: 名 count: 2  frequency : 0.0%
+total count:50
+
+number of homophones2
+lip6: ['獵', '臘'] 
+char: 臘 count: 2  frequency : 0.0%
+char: 獵 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+ciu4: ['潮', '朝'] 
+char: 潮 count: 7  frequency : 0.0%
+char: 朝 count: 4  frequency : 0.0%
+total count:11
+
+number of homophones2
+ceoi1: ['趨', '吹'] 
+char: 趨 count: 1  frequency : 0.0%
+char: 吹 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+cau1: ['秋', '抽'] 
+char: 抽 count: 4  frequency : 0.0%
+char: 秋 count: 2  frequency : 0.0%
+total count:6
+
+number of homophones2
+cik1: ['戚', '斥'] 
+char: 戚 count: 9  frequency : 0.0%
+char: 斥 count: 1  frequency : 0.0%
+total count:10
+
+number of homophones2
+pan4: ['頻', '貧'] 
+char: 貧 count: 5  frequency : 0.0%
+char: 頻 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones2
+caa4: ['茶', '查'] 
+char: 茶 count: 8  frequency : 0.0%
+char: 查 count: 2  frequency : 0.0%
+total count:10
+
+number of homophones2
+doi6: ['代', '待'] 
+char: 代 count: 49  frequency : 0.0%
+char: 待 count: 1  frequency : 0.0%
+total count:50
+
+number of homophones2
+jim4: ['嚴', '嫌'] 
+char: 嚴 count: 43  frequency : 0.0%
+char: 嫌 count: 1  frequency : 0.0%
+total count:44
+
+number of homophones2
+fuk1: ['福', '幅'] 
+char: 福 count: 5  frequency : 0.0%
+char: 幅 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones2
+fan2: ['份', '粉'] 
+char: 份 count: 7  frequency : 0.0%
+char: 粉 count: 1  frequency : 0.0%
+total count:8
+
+number of homophones2
+syun2: ['選', '損'] 
+char: 選 count: 17  frequency : 0.0%
+char: 損 count: 1  frequency : 0.0%
+total count:18
+
+number of homophones2
+zaak6: ['擇', '宅'] 
+char: 擇 count: 14  frequency : 0.0%
+char: 宅 count: 1  frequency : 0.0%
+total count:15
+
+number of homophones2
+gaau2: ['搞', '餃'] 
+char: 搞 count: 46  frequency : 0.0%
+char: 餃 count: 1  frequency : 0.0%
+total count:47
+
+number of homophones2
+zau3: ['晝', '奏'] 
+char: 晝 count: 12  frequency : 0.0%
+char: 奏 count: 1  frequency : 0.0%
+total count:13
+
+number of homophones2
+lung4: ['籠', '龍'] 
+char: 龍 count: 12  frequency : 0.0%
+char: 籠 count: 2  frequency : 0.0%
+total count:14
+
+number of homophones2
+maa3: ['嗎', '嘛'] 
+char: 嘛 count: 29  frequency : 0.0%
+char: 嗎 count: 1  frequency : 0.0%
+total count:30
+
+number of homophones2
+dok6: ['踱', '度'] 
+char: 度 count: 13  frequency : 0.0%
+char: 踱 count: 1  frequency : 0.0%
+total count:14
+
+number of homophones2
+gik1: ['擊', '激'] 
+char: 激 count: 11  frequency : 0.0%
+char: 擊 count: 1  frequency : 0.0%
+total count:12
+
+number of homophones2
+sau1: ['收', '修'] 
+char: 收 count: 27  frequency : 0.0%
+char: 修 count: 7  frequency : 0.0%
+total count:34
+
+number of homophones2
+gam1: ['金', '今'] 
+char: 今 count: 21  frequency : 0.0%
+char: 金 count: 9  frequency : 0.0%
+total count:30
+
+number of homophones2
+zat6: ['疾', '姪'] 
+char: 疾 count: 3  frequency : 0.0%
+char: 姪 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+aai5: ['唉', '哎'] 
+char: 唉 count: 10  frequency : 0.0%
+char: 哎 count: 5  frequency : 0.0%
+total count:15
+
+number of homophones2
+gaan2: ['簡', '揀'] 
+char: 揀 count: 20  frequency : 0.0%
+char: 簡 count: 6  frequency : 0.0%
+total count:26
+
+number of homophones2
+nou5: ['腦', '努'] 
+char: 腦 count: 19  frequency : 0.0%
+char: 努 count: 3  frequency : 0.0%
+total count:22
+
+number of homophones2
+suk6: ['熟', '屬'] 
+char: 熟 count: 14  frequency : 0.0%
+char: 屬 count: 2  frequency : 0.0%
+total count:16
+
+number of homophones2
+siu1: ['燒', '宵'] 
+char: 燒 count: 5  frequency : 0.0%
+char: 宵 count: 3  frequency : 0.0%
+total count:8
+
+number of homophones2
+zit3: ['節', '折'] 
+char: 節 count: 24  frequency : 0.0%
+char: 折 count: 5  frequency : 0.0%
+total count:29
+
+number of homophones2
+hoeng3: ['嚮', '向'] 
+char: 向 count: 9  frequency : 0.0%
+char: 嚮 count: 3  frequency : 0.0%
+total count:12
+
+number of homophones2
+kyut3: ['缺', '決'] 
+char: 決 count: 10  frequency : 0.0%
+char: 缺 count: 4  frequency : 0.0%
+total count:14
+
+number of homophones2
+jeoi6: ['銳', '裔'] 
+char: 裔 count: 12  frequency : 0.0%
+char: 銳 count: 1  frequency : 0.0%
+total count:13
+
+number of homophones2
+zin3: ['戰', '箭'] 
+char: 戰 count: 7  frequency : 0.0%
+char: 箭 count: 1  frequency : 0.0%
+total count:8
+
+number of homophones2
+jik1: ['憶', '抑'] 
+char: 抑 count: 2  frequency : 0.0%
+char: 憶 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+nim6: ['念', '唸'] 
+char: 唸 count: 7  frequency : 0.0%
+char: 念 count: 6  frequency : 0.0%
+total count:13
+
+number of homophones2
+kau4: ['求', '球'] 
+char: 求 count: 21  frequency : 0.0%
+char: 球 count: 4  frequency : 0.0%
+total count:25
+
+number of homophones2
+daap6: ['踏', '沓'] 
+char: 沓 count: 3  frequency : 0.0%
+char: 踏 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+hou4: ['毫', '豪'] 
+char: 豪 count: 5  frequency : 0.0%
+char: 毫 count: 1  frequency : 0.0%
+total count:6
+
+number of homophones2
+faan2: ['反', '返'] 
+char: 反 count: 26  frequency : 0.0%
+char: 返 count: 1  frequency : 0.0%
+total count:27
+
+number of homophones2
+hing3: ['興', '慶'] 
+char: 興 count: 23  frequency : 0.0%
+char: 慶 count: 12  frequency : 0.0%
+total count:35
+
+number of homophones2
+zyu3: ['著', '注'] 
+char: 著 count: 42  frequency : 0.0%
+char: 注 count: 3  frequency : 0.0%
+total count:45
+
+number of homophones2
+zaa2: ['渣', '鮓'] 
+char: 渣 count: 3  frequency : 0.0%
+char: 鮓 count: 2  frequency : 0.0%
+total count:5
+
+number of homophones2
+baak6: ['白', '蔔'] 
+char: 白 count: 21  frequency : 0.0%
+char: 蔔 count: 1  frequency : 0.0%
+total count:22
+
+number of homophones2
+wun6: ['玩', '換'] 
+char: 玩 count: 10  frequency : 0.0%
+char: 換 count: 5  frequency : 0.0%
+total count:15
+
+number of homophones2
+kap1: ['級', '吸'] 
+char: 級 count: 10  frequency : 0.0%
+char: 吸 count: 4  frequency : 0.0%
+total count:14
+
+number of homophones2
+gau6: ['舊', '嚿'] 
+char: 舊 count: 42  frequency : 0.0%
+char: 嚿 count: 2  frequency : 0.0%
+total count:44
+
+number of homophones2
+gou3: ['吿', '告'] 
+char: 告 count: 4  frequency : 0.0%
+char: 吿 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+mou6: ['務', '冒'] 
+char: 務 count: 10  frequency : 0.0%
+char: 冒 count: 1  frequency : 0.0%
+total count:11
+
+number of homophones2
+bo3: ['啵', '播'] 
+char: 啵 count: 1  frequency : 0.0%
+char: 播 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+paai4: ['牌', '排'] 
+char: 牌 count: 12  frequency : 0.0%
+char: 排 count: 10  frequency : 0.0%
+total count:22
+
+number of homophones2
+ce2: ['且', '扯'] 
+char: 且 count: 3  frequency : 0.0%
+char: 扯 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+fat6: ['罰', '乏'] 
+char: 罰 count: 41  frequency : 0.0%
+char: 乏 count: 1  frequency : 0.0%
+total count:42
+
+number of homophones2
+zaau2: ['抓', '找'] 
+char: 抓 count: 4  frequency : 0.0%
+char: 找 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+can4: ['陳', '塵'] 
+char: 塵 count: 2  frequency : 0.0%
+char: 陳 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+wong4: ['王', '黃'] 
+char: 王 count: 6  frequency : 0.0%
+char: 黃 count: 6  frequency : 0.0%
+total count:12
+
+number of homophones2
+hap6: ['合', '盒'] 
+char: 合 count: 10  frequency : 0.0%
+char: 盒 count: 1  frequency : 0.0%
+total count:11
+
+number of homophones2
+bei3: ['畀', '祕'] 
+char: 畀 count: 97  frequency : 0.0%
+char: 祕 count: 2  frequency : 0.0%
+total count:99
+
+number of homophones2
+hip3: ['協', '脅'] 
+char: 協 count: 2  frequency : 0.0%
+char: 脅 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+cam4: ['尋', '沉'] 
+char: 尋 count: 2  frequency : 0.0%
+char: 沉 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+syu2: ['暑', '鼠'] 
+char: 暑 count: 6  frequency : 0.0%
+char: 鼠 count: 3  frequency : 0.0%
+total count:9
+
+number of homophones2
+gun2: ['館', '管'] 
+char: 館 count: 7  frequency : 0.0%
+char: 管 count: 6  frequency : 0.0%
+total count:13
+
+number of homophones2
+leoi6: ['類', '慮'] 
+char: 類 count: 9  frequency : 0.0%
+char: 慮 count: 5  frequency : 0.0%
+total count:14
+
+number of homophones2
+fo3: ['貨', '課'] 
+char: 課 count: 22  frequency : 0.0%
+char: 貨 count: 1  frequency : 0.0%
+total count:23
+
+number of homophones2
+cang4: ['曾', '層'] 
+char: 層 count: 16  frequency : 0.0%
+char: 曾 count: 9  frequency : 0.0%
+total count:25
+
+number of homophones2
+bui3: ['背', '輩'] 
+char: 背 count: 6  frequency : 0.0%
+char: 輩 count: 1  frequency : 0.0%
+total count:7
+
+number of homophones2
+daap3: ['搭', '答'] 
+char: 搭 count: 20  frequency : 0.0%
+char: 答 count: 19  frequency : 0.0%
+total count:39
+
+number of homophones2
+bo1: ['波', '玻'] 
+char: 波 count: 6  frequency : 0.0%
+char: 玻 count: 2  frequency : 0.0%
+total count:8
+
+number of homophones2
+sing6: ['盛', '剩'] 
+char: 盛 count: 2  frequency : 0.0%
+char: 剩 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+dang1: ['燈', '登'] 
+char: 燈 count: 5  frequency : 0.0%
+char: 登 count: 4  frequency : 0.0%
+total count:9
+
+number of homophones2
+pin3: ['片', '遍'] 
+char: 遍 count: 4  frequency : 0.0%
+char: 片 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+sek6: ['石', '碩'] 
+char: 石 count: 5  frequency : 0.0%
+char: 碩 count: 3  frequency : 0.0%
+total count:8
+
+number of homophones2
+syun4: ['船', '旋'] 
+char: 船 count: 1  frequency : 0.0%
+char: 旋 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+zak1: ['則', '側'] 
+char: 側 count: 7  frequency : 0.0%
+char: 則 count: 4  frequency : 0.0%
+total count:11
+
+number of homophones2
+lau2: ['樓', '流'] 
+char: 樓 count: 16  frequency : 0.0%
+char: 流 count: 1  frequency : 0.0%
+total count:17
+
+number of homophones2
+cin1: ['遷', '千'] 
+char: 千 count: 7  frequency : 0.0%
+char: 遷 count: 2  frequency : 0.0%
+total count:9
+
+number of homophones2
+ziu1: ['朝', '招'] 
+char: 朝 count: 8  frequency : 0.0%
+char: 招 count: 7  frequency : 0.0%
+total count:15
+
+number of homophones2
+can3: ['趁', '襯'] 
+char: 趁 count: 2  frequency : 0.0%
+char: 襯 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+ging3: ['敬', '競'] 
+char: 敬 count: 5  frequency : 0.0%
+char: 競 count: 3  frequency : 0.0%
+total count:8
+
+number of homophones2
+gaa2: ['假', '架'] 
+char: 架 count: 2  frequency : 0.0%
+char: 假 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+hung4: ['紅', '熊'] 
+char: 紅 count: 4  frequency : 0.0%
+char: 熊 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+haau2: ['考', '巧'] 
+char: 考 count: 55  frequency : 0.0%
+char: 巧 count: 1  frequency : 0.0%
+total count:56
+
+number of homophones2
+baan1: ['般', '班'] 
+char: 班 count: 86  frequency : 0.0%
+char: 般 count: 2  frequency : 0.0%
+total count:88
+
+number of homophones2
+laam4: ['籃', '藍'] 
+char: 籃 count: 4  frequency : 0.0%
+char: 藍 count: 2  frequency : 0.0%
+total count:6
+
+number of homophones2
+kok3: ['確', '壑'] 
+char: 確 count: 2  frequency : 0.0%
+char: 壑 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+jan5: ['引', '癮'] 
+char: 引 count: 1  frequency : 0.0%
+char: 癮 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+zong1: ['妝', '裝'] 
+char: 裝 count: 4  frequency : 0.0%
+char: 妝 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+geoi2: ['矩', '舉'] 
+char: 矩 count: 11  frequency : 0.0%
+char: 舉 count: 2  frequency : 0.0%
+total count:13
+
+number of homophones2
+tung2: ['統', '桶'] 
+char: 統 count: 8  frequency : 0.0%
+char: 桶 count: 2  frequency : 0.0%
+total count:10
+
+number of homophones2
+bong2: ['榜', '綁'] 
+char: 榜 count: 4  frequency : 0.0%
+char: 綁 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+fun1: ['歡', '寬'] 
+char: 歡 count: 3  frequency : 0.0%
+char: 寬 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+mui4: ['媒', '煤'] 
+char: 媒 count: 5  frequency : 0.0%
+char: 煤 count: 2  frequency : 0.0%
+total count:7
+
+number of homophones2
+sin3: ['綫', '線'] 
+char: 綫 count: 1  frequency : 0.0%
+char: 線 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+seoi5: ['緒', '粹'] 
+char: 緒 count: 1  frequency : 0.0%
+char: 粹 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+saan3: ['散', '汕'] 
+char: 散 count: 1  frequency : 0.0%
+char: 汕 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+mei1: ['尾', '瞇'] 
+char: 尾 count: 18  frequency : 0.0%
+char: 瞇 count: 2  frequency : 0.0%
+total count:20
+
+number of homophones2
+mei4: ['微', '彌'] 
+char: 微 count: 2  frequency : 0.0%
+char: 彌 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+geng2: ['鏡', '頸'] 
+char: 鏡 count: 4  frequency : 0.0%
+char: 頸 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+paak3: ['拍', '泊'] 
+char: 拍 count: 11  frequency : 0.0%
+char: 泊 count: 2  frequency : 0.0%
+total count:13
+
+number of homophones2
+lei2: ['利', '嚟'] 
+char: 利 count: 1  frequency : 0.0%
+char: 嚟 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+baan2: ['板', '闆'] 
+char: 板 count: 7  frequency : 0.0%
+char: 闆 count: 5  frequency : 0.0%
+total count:12
+
+number of homophones2
+zung3: ['縱', '種'] 
+char: 縱 count: 4  frequency : 0.0%
+char: 種 count: 2  frequency : 0.0%
+total count:6
+
+number of homophones2
+ou3: ['噢', '澳'] 
+char: 噢 count: 3  frequency : 0.0%
+char: 澳 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+hau4: ['侯', '喉'] 
+char: 侯 count: 1  frequency : 0.0%
+char: 喉 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+caak3: ['拆', '策'] 
+char: 拆 count: 5  frequency : 0.0%
+char: 策 count: 2  frequency : 0.0%
+total count:7
+
+number of homophones2
+dik6: ['迪', '敵'] 
+char: 迪 count: 1  frequency : 0.0%
+char: 敵 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+nei4: ['尼', '彌'] 
+char: 尼 count: 1  frequency : 0.0%
+char: 彌 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+daan2: ['蛋', '彈'] 
+char: 蛋 count: 5  frequency : 0.0%
+char: 彈 count: 2  frequency : 0.0%
+total count:7
+
+number of homophones2
+lik1: ['力', '匿'] 
+char: 力 count: 2  frequency : 0.0%
+char: 匿 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+liu2: ['撩', '料'] 
+char: 撩 count: 1  frequency : 0.0%
+char: 料 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+ci1: ['痴', '黐'] 
+char: 痴 count: 2  frequency : 0.0%
+char: 黐 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+geoi3: ['句', '據'] 
+char: 句 count: 2  frequency : 0.0%
+char: 據 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+cek3: ['呎', '尺'] 
+char: 呎 count: 1  frequency : 0.0%
+char: 尺 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+seoi6: ['瑞', '萃'] 
+char: 瑞 count: 1  frequency : 0.0%
+char: 萃 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+cyun1: ['村', '穿'] 
+char: 村 count: 2  frequency : 0.0%
+char: 穿 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+liu4: ['聊', '撩'] 
+char: 聊 count: 1  frequency : 0.0%
+char: 撩 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+toi2: ['檯', '枱'] 
+char: 檯 count: 5  frequency : 0.0%
+char: 枱 count: 5  frequency : 0.0%
+total count:10
+
+number of homophones2
+wo1: ['窩', '鍋'] 
+char: 窩 count: 2  frequency : 0.0%
+char: 鍋 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+gwai6: ['跪', '櫃'] 
+char: 跪 count: 2  frequency : 0.0%
+char: 櫃 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+kwan4: ['裙', '群'] 
+char: 群 count: 7  frequency : 0.0%
+char: 裙 count: 4  frequency : 0.0%
+total count:11
+
+number of homophones2
+aai1: ['哎', '挨'] 
+char: 哎 count: 4  frequency : 0.0%
+char: 挨 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+cou1: ['粗', '操'] 
+char: 粗 count: 3  frequency : 0.0%
+char: 操 count: 2  frequency : 0.0%
+total count:5
+
+number of homophones2
+je2: ['爺', '夜'] 
+char: 爺 count: 2  frequency : 0.0%
+char: 夜 count: 2  frequency : 0.0%
+total count:4
+
+number of homophones2
+tou2: ['土', '禱'] 
+char: 土 count: 18  frequency : 0.0%
+char: 禱 count: 2  frequency : 0.0%
+total count:20
+
+number of homophones2
+dong4: ['唐', '堂'] 
+char: 唐 count: 3  frequency : 0.0%
+char: 堂 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+gwaa1: ['瓜', '誇'] 
+char: 瓜 count: 8  frequency : 0.0%
+char: 誇 count: 1  frequency : 0.0%
+total count:9
+
+number of homophones2
+laai6: ['攋', '賴'] 
+char: 攋 count: 5  frequency : 0.0%
+char: 賴 count: 2  frequency : 0.0%
+total count:7
+
+number of homophones2
+deon1: ['敦', '墩'] 
+char: 敦 count: 2  frequency : 0.0%
+char: 墩 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+ceon4: ['循', '巡'] 
+char: 循 count: 1  frequency : 0.0%
+char: 巡 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+gei6: ['忌', '技'] 
+char: 忌 count: 4  frequency : 0.0%
+char: 技 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+laam2: ['欖', '攬'] 
+char: 攬 count: 4  frequency : 0.0%
+char: 欖 count: 1  frequency : 0.0%
+total count:5
+
+number of homophones2
+gun3: ['灌', '罐'] 
+char: 罐 count: 5  frequency : 0.0%
+char: 灌 count: 2  frequency : 0.0%
+total count:7
+
+number of homophones2
+sak1: ['塞', '噻'] 
+char: 塞 count: 3  frequency : 0.0%
+char: 噻 count: 1  frequency : 0.0%
+total count:4
+
+number of homophones2
+kiu2: ['橋', '巧'] 
+char: 橋 count: 1  frequency : 0.0%
+char: 巧 count: 1  frequency : 0.0%
+total count:2
+
+number of homophones2
+caau2: ['吵', '炒'] 
+char: 吵 count: 6  frequency : 0.0%
+char: 炒 count: 5  frequency : 0.0%
+total count:11
+
+number of homophones2
+coi4: ['財', '才'] 
+char: 才 count: 2  frequency : 0.0%
+char: 財 count: 1  frequency : 0.0%
+total count:3
+
+number of homophones2
+paai2: ['排', '牌'] 
+char: 排 count: 8  frequency : 0.0%
+char: 牌 count: 1  frequency : 0.0%
+total count:9
+
+number of homophones1
+sap6: ['十'] 
+char: 十 count: 188  frequency : 0.0%
+total count:188
+
+number of homophones1
+m4: ['唔'] 
+char: 唔 count: 1893  frequency : 0.0%
+total count:1893
+
+number of homophones1
+maai4: ['埋'] 
+char: 埋 count: 239  frequency : 0.0%
+total count:239
+
+number of homophones1
+go2: ['嗰'] 
+char: 嗰 count: 1271  frequency : 0.0%
+total count:1271
+
+number of homophones1
+di1: ['啲'] 
+char: 啲 count: 2118  frequency : 0.0%
+total count:2118
+
+number of homophones1
+jat1: ['一'] 
+char: 一 count: 1131  frequency : 0.0%
+total count:1131
+
+number of homophones1
+go3: ['個'] 
+char: 個 count: 1736  frequency : 0.0%
+total count:1736
+
+number of homophones1
+mi1: ['咪'] 
+char: 咪 count: 98  frequency : 0.0%
+total count:98
+
+number of homophones1
+de1: ['爹'] 
+char: 爹 count: 68  frequency : 0.0%
+total count:68
+
+number of homophones1
+la1: ['啦'] 
+char: 啦 count: 947  frequency : 0.0%
+total count:947
+
+number of homophones1
+zyu6: ['住'] 
+char: 住 count: 319  frequency : 0.0%
+total count:319
+
+number of homophones1
+ngo5: ['我'] 
+char: 我 count: 3599  frequency : 0.0%
+total count:3599
+
+number of homophones1
+daai6: ['大'] 
+char: 大 count: 543  frequency : 0.0%
+total count:543
+
+number of homophones1
+baa3: ['伯'] 
+char: 伯 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+noeng4: ['孃'] 
+char: 孃 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+aa4: ['呀'] 
+char: 呀 count: 68  frequency : 0.0%
+total count:68
+
+number of homophones1
+po4: ['婆'] 
+char: 婆 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+do1: ['多'] 
+char: 多 count: 832  frequency : 0.0%
+total count:832
+
+number of homophones1
+loeng5: ['兩'] 
+char: 兩 count: 158  frequency : 0.0%
+total count:158
+
+number of homophones1
+bong1: ['幫'] 
+char: 幫 count: 90  frequency : 0.0%
+total count:90
+
+number of homophones1
+hou2: ['好'] 
+char: 好 count: 1949  frequency : 0.0%
+total count:1949
+
+number of homophones1
+ci5: ['似'] 
+char: 似 count: 178  frequency : 0.0%
+total count:178
+
+number of homophones1
+hok6: ['學'] 
+char: 學 count: 445  frequency : 0.0%
+total count:445
+
+number of homophones1
+ding6: ['定'] 
+char: 定 count: 169  frequency : 0.0%
+total count:169
+
+number of homophones1
+zan6: ['陣'] 
+char: 陣 count: 169  frequency : 0.0%
+total count:169
+
+number of homophones1
+si4: ['時'] 
+char: 時 count: 319  frequency : 0.0%
+total count:319
+
+number of homophones1
+daa2: ['打'] 
+char: 打 count: 150  frequency : 0.0%
+total count:150
+
+number of homophones1
+heoi3: ['去'] 
+char: 去 count: 759  frequency : 0.0%
+total count:759
+
+number of homophones1
+haang4: ['行'] 
+char: 行 count: 57  frequency : 0.0%
+total count:57
+
+number of homophones1
+mat1: ['乜'] 
+char: 乜 count: 312  frequency : 0.0%
+total count:312
+
+number of homophones1
+mai6: ['咪'] 
+char: 咪 count: 256  frequency : 0.0%
+total count:256
+
+number of homophones1
+gwo3: ['過'] 
+char: 過 count: 504  frequency : 0.0%
+total count:504
+
+number of homophones1
+gwok3: ['國'] 
+char: 國 count: 218  frequency : 0.0%
+total count:218
+
+number of homophones1
+gam3: ['咁'] 
+char: 咁 count: 2179  frequency : 0.0%
+total count:2179
+
+number of homophones1
+din6: ['電'] 
+char: 電 count: 76  frequency : 0.0%
+total count:76
+
+number of homophones1
+nei5: ['你'] 
+char: 你 count: 940  frequency : 0.0%
+total count:940
+
+number of homophones1
+goi1: ['該'] 
+char: 該 count: 106  frequency : 0.0%
+total count:106
+
+number of homophones1
+leng4: ['零'] 
+char: 零 count: 52  frequency : 0.0%
+total count:52
+
+number of homophones1
+sei3: ['四'] 
+char: 四 count: 129  frequency : 0.0%
+total count:129
+
+number of homophones1
+nin4: ['年'] 
+char: 年 count: 311  frequency : 0.0%
+total count:311
+
+number of homophones1
+ping4: ['平'] 
+char: 平 count: 27  frequency : 0.0%
+total count:27
+
+number of homophones1
+ge3: ['嘅'] 
+char: 嘅 count: 1816  frequency : 0.0%
+total count:1816
+
+number of homophones1
+sik6: ['食'] 
+char: 食 count: 91  frequency : 0.0%
+total count:91
+
+number of homophones1
+tiu2: ['條'] 
+char: 條 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+wui5: ['會'] 
+char: 會 count: 593  frequency : 0.0%
+total count:593
+
+number of homophones1
+uk1: ['屋'] 
+char: 屋 count: 190  frequency : 0.0%
+total count:190
+
+number of homophones1
+kei5: ['企'] 
+char: 企 count: 21  frequency : 0.0%
+total count:21
+
+number of homophones1
+maai5: ['買'] 
+char: 買 count: 40  frequency : 0.0%
+total count:40
+
+number of homophones1
+zai2: ['仔'] 
+char: 仔 count: 235  frequency : 0.0%
+total count:235
+
+number of homophones1
+baai2: ['擺'] 
+char: 擺 count: 23  frequency : 0.0%
+total count:23
+
+number of homophones1
+hai2: ['喺'] 
+char: 喺 count: 485  frequency : 0.0%
+total count:485
+
+number of homophones1
+zau6: ['就'] 
+char: 就 count: 1438  frequency : 0.0%
+total count:1438
+
+number of homophones1
+aam1: ['啱'] 
+char: 啱 count: 24  frequency : 0.0%
+total count:24
+
+number of homophones1
+haa5: ['下'] 
+char: 下 count: 218  frequency : 0.0%
+total count:218
+
+number of homophones1
+co3: ['錯'] 
+char: 錯 count: 24  frequency : 0.0%
+total count:24
+
+number of homophones1
+ngaam1: ['啱'] 
+char: 啱 count: 39  frequency : 0.0%
+total count:39
+
+number of homophones1
+si3: ['試'] 
+char: 試 count: 83  frequency : 0.0%
+total count:83
+
+number of homophones1
+wo3: ['喎'] 
+char: 喎 count: 176  frequency : 0.0%
+total count:176
+
+number of homophones1
+sin1: ['先'] 
+char: 先 count: 209  frequency : 0.0%
+total count:209
+
+number of homophones1
+min2: ['面'] 
+char: 面 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+cin4: ['前'] 
+char: 前 count: 167  frequency : 0.0%
+total count:167
+
+number of homophones1
+bin1: ['邊'] 
+char: 邊 count: 205  frequency : 0.0%
+total count:205
+
+number of homophones1
+bun2: ['本'] 
+char: 本 count: 112  frequency : 0.0%
+total count:112
+
+number of homophones1
+m6: ['嗯'] 
+char: 嗯 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+giu3: ['叫'] 
+char: 叫 count: 117  frequency : 0.0%
+total count:117
+
+number of homophones1
+aak3: ['呃'] 
+char: 呃 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+laa1: ['喇'] 
+char: 喇 count: 205  frequency : 0.0%
+total count:205
+
+number of homophones1
+naai1: ['奶'] 
+char: 奶 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ne1: ['呢'] 
+char: 呢 count: 484  frequency : 0.0%
+total count:484
+
+number of homophones1
+mui6: ['妹'] 
+char: 妹 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+daai3: ['帶'] 
+char: 帶 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+o1: ['喔'] 
+char: 喔 count: 26  frequency : 0.0%
+total count:26
+
+number of homophones1
+kau5: ['舅'] 
+char: 舅 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+kam5: ['妗'] 
+char: 妗 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+so2: ['所'] 
+char: 所 count: 479  frequency : 0.0%
+total count:479
+
+number of homophones1
+bin3: ['變'] 
+char: 變 count: 91  frequency : 0.0%
+total count:91
+
+number of homophones1
+jan4: ['人'] 
+char: 人 count: 828  frequency : 0.0%
+total count:828
+
+number of homophones1
+gwo2: ['果'] 
+char: 果 count: 346  frequency : 0.0%
+total count:346
+
+number of homophones1
+mui2: ['妹'] 
+char: 妹 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+sat6: ['實'] 
+char: 實 count: 181  frequency : 0.0%
+total count:181
+
+number of homophones1
+baat3: ['八'] 
+char: 八 count: 51  frequency : 0.0%
+total count:51
+
+number of homophones1
+zok3: ['作'] 
+char: 作 count: 32  frequency : 0.0%
+total count:32
+
+number of homophones1
+naan4: ['難'] 
+char: 難 count: 78  frequency : 0.0%
+total count:78
+
+number of homophones1
+dung3: ['凍'] 
+char: 凍 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+co1: ['初'] 
+char: 初 count: 62  frequency : 0.0%
+total count:62
+
+number of homophones1
+beng6: ['病'] 
+char: 病 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+zam6: ['陣'] 
+char: 陣 count: 64  frequency : 0.0%
+total count:64
+
+number of homophones1
+cai1: ['淒'] 
+char: 淒 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+loi4: ['來'] 
+char: 來 count: 51  frequency : 0.0%
+total count:51
+
+number of homophones1
+caam2: ['慘'] 
+char: 慘 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+duk1: ['督'] 
+char: 督 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+tyun4: ['團'] 
+char: 團 count: 11  frequency : 0.0%
+total count:11
+
+number of homophones1
+kai3: ['契'] 
+char: 契 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+jing3: ['應'] 
+char: 應 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+man6: ['問'] 
+char: 問 count: 130  frequency : 0.0%
+total count:130
+
+number of homophones1
+le2: ['咧'] 
+char: 咧 count: 1022  frequency : 0.0%
+total count:1022
+
+number of homophones1
+gang2: ['梗'] 
+char: 梗 count: 49  frequency : 0.0%
+total count:49
+
+number of homophones1
+cuk1: ['觸'] 
+char: 觸 count: 17  frequency : 0.0%
+total count:17
+
+number of homophones1
+syun3: ['算'] 
+char: 算 count: 49  frequency : 0.0%
+total count:49
+
+number of homophones1
+haap3: ['狹'] 
+char: 狹 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jiu3: ['要'] 
+char: 要 count: 579  frequency : 0.0%
+total count:579
+
+number of homophones1
+ga4: ['嘎'] 
+char: 嘎 count: 95  frequency : 0.0%
+total count:95
+
+number of homophones1
+bou1: ['煲'] 
+char: 煲 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+seoi2: ['水'] 
+char: 水 count: 43  frequency : 0.0%
+total count:43
+
+number of homophones1
+wui2: ['會'] 
+char: 會 count: 79  frequency : 0.0%
+total count:79
+
+number of homophones1
+dak6: ['特'] 
+char: 特 count: 103  frequency : 0.0%
+total count:103
+
+number of homophones1
+bit6: ['別'] 
+char: 別 count: 126  frequency : 0.0%
+total count:126
+
+number of homophones1
+gaa4: ['㗎'] 
+char: 㗎 count: 723  frequency : 0.0%
+total count:723
+
+number of homophones1
+se5: ['社'] 
+char: 社 count: 27  frequency : 0.0%
+total count:27
+
+number of homophones1
+kei2: ['企'] 
+char: 企 count: 110  frequency : 0.0%
+total count:110
+
+number of homophones1
+ngoi6: ['外'] 
+char: 外 count: 40  frequency : 0.0%
+total count:40
+
+number of homophones1
+je6: ['夜'] 
+char: 夜 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+maan1: ['晚'] 
+char: 晚 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+seng4: ['成'] 
+char: 成 count: 135  frequency : 0.0%
+total count:135
+
+number of homophones1
+dim2: ['點'] 
+char: 點 count: 239  frequency : 0.0%
+total count:239
+
+number of homophones1
+tit3: ['鐵'] 
+char: 鐵 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+jau6: ['又'] 
+char: 又 count: 566  frequency : 0.0%
+total count:566
+
+number of homophones1
+dang2: ['等'] 
+char: 等 count: 39  frequency : 0.0%
+total count:39
+
+number of homophones1
+ce1: ['車'] 
+char: 車 count: 100  frequency : 0.0%
+total count:100
+
+number of homophones1
+soeng5: ['上'] 
+char: 上 count: 87  frequency : 0.0%
+total count:87
+
+number of homophones1
+co5: ['坐'] 
+char: 坐 count: 34  frequency : 0.0%
+total count:34
+
+number of homophones1
+mong6: ['望'] 
+char: 望 count: 47  frequency : 0.0%
+total count:47
+
+number of homophones1
+jaa6: ['廿'] 
+char: 廿 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+jyun5: ['遠'] 
+char: 遠 count: 31  frequency : 0.0%
+total count:31
+
+number of homophones1
+gan6: ['近'] 
+char: 近 count: 51  frequency : 0.0%
+total count:51
+
+number of homophones1
+to5: ['妥'] 
+char: 妥 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+neoi5: ['女'] 
+char: 女 count: 131  frequency : 0.0%
+total count:131
+
+number of homophones1
+zoek3: ['著'] 
+char: 著 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+joeng2: ['樣'] 
+char: 樣 count: 324  frequency : 0.0%
+total count:324
+
+number of homophones1
+tau2: ['頭'] 
+char: 頭 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+mun4: ['門'] 
+char: 門 count: 25  frequency : 0.0%
+total count:25
+
+number of homophones1
+nam2: ['諗'] 
+char: 諗 count: 238  frequency : 0.0%
+total count:238
+
+number of homophones1
+liu5: ['了'] 
+char: 了 count: 21  frequency : 0.0%
+total count:21
+
+number of homophones1
+gaai2: ['解'] 
+char: 解 count: 63  frequency : 0.0%
+total count:63
+
+number of homophones1
+kwong4: ['狂'] 
+char: 狂 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+paau2: ['跑'] 
+char: 跑 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+se3: ['舍'] 
+char: 舍 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+hang2: ['肯'] 
+char: 肯 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+dik1: ['的'] 
+char: 的 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+sing2: ['醒'] 
+char: 醒 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+ga6: ['噶'] 
+char: 噶 count: 50  frequency : 0.0%
+total count:50
+
+number of homophones1
+bak1: ['北'] 
+char: 北 count: 29  frequency : 0.0%
+total count:29
+
+number of homophones1
+nung4: ['農'] 
+char: 農 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngai4: ['危'] 
+char: 危 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+him2: ['險'] 
+char: 險 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+dai3: ['諦'] 
+char: 諦 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+taam3: ['探'] 
+char: 探 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+leng3: ['靚'] 
+char: 靚 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+sin6: ['善'] 
+char: 善 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lyun2: ['亂'] 
+char: 亂 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+gang3: ['更'] 
+char: 更 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+lyun6: ['亂'] 
+char: 亂 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+laau2: ['撈'] 
+char: 撈 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+gaau6: ['攪'] 
+char: 攪 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+dong1: ['當'] 
+char: 當 count: 62  frequency : 0.0%
+total count:62
+
+number of homophones1
+on3: ['案'] 
+char: 案 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+caam1: ['參'] 
+char: 參 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+zim3: ['佔'] 
+char: 佔 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+tim1: ['添'] 
+char: 添 count: 21  frequency : 0.0%
+total count:21
+
+number of homophones1
+pung3: ['碰'] 
+char: 碰 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+paa3: ['怕'] 
+char: 怕 count: 25  frequency : 0.0%
+total count:25
+
+number of homophones1
+deoi3: ['對'] 
+char: 對 count: 91  frequency : 0.0%
+total count:91
+
+number of homophones1
+taam4: ['痰'] 
+char: 痰 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+cau2: ['醜'] 
+char: 醜 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+gwaai3: ['怪'] 
+char: 怪 count: 42  frequency : 0.0%
+total count:42
+
+number of homophones1
+nang4: ['能'] 
+char: 能 count: 167  frequency : 0.0%
+total count:167
+
+number of homophones1
+zyun2: ['轉'] 
+char: 轉 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+oi3: ['愛'] 
+char: 愛 count: 11  frequency : 0.0%
+total count:11
+
+number of homophones1
+jap6: ['入'] 
+char: 入 count: 95  frequency : 0.0%
+total count:95
+
+number of homophones1
+saang2: ['省'] 
+char: 省 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+jip6: ['業'] 
+char: 業 count: 45  frequency : 0.0%
+total count:45
+
+number of homophones1
+kaau3: ['靠'] 
+char: 靠 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+zeon6: ['盡'] 
+char: 盡 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+jam6: ['任'] 
+char: 任 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+waa6: ['話'] 
+char: 話 count: 393  frequency : 0.0%
+total count:393
+
+number of homophones1
+laang5: ['冷'] 
+char: 冷 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+gaam1: ['監'] 
+char: 監 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+joek3: ['約'] 
+char: 約 count: 13  frequency : 0.0%
+total count:13
+
+number of homophones1
+pui5: ['倍'] 
+char: 倍 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+hung1: ['空'] 
+char: 空 count: 11  frequency : 0.0%
+total count:11
+
+number of homophones1
+wu4: ['湖'] 
+char: 湖 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jyu2: ['魚'] 
+char: 魚 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+baa2: ['把'] 
+char: 把 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+paa4: ['爬'] 
+char: 爬 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+teng5: ['艇'] 
+char: 艇 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zing2: ['整'] 
+char: 整 count: 70  frequency : 0.0%
+total count:70
+
+number of homophones1
+on1: ['安'] 
+char: 安 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+loek6: ['略'] 
+char: 略 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+geoi1: ['居'] 
+char: 居 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+meng2: ['名'] 
+char: 名 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+keoi1: ['區'] 
+char: 區 count: 40  frequency : 0.0%
+total count:40
+
+number of homophones1
+kan4: ['勤'] 
+char: 勤 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+faa1: ['花'] 
+char: 花 count: 23  frequency : 0.0%
+total count:23
+
+number of homophones1
+tung3: ['痛'] 
+char: 痛 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+cou2: ['草'] 
+char: 草 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+dai1: ['低'] 
+char: 低 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+lou5: ['老'] 
+char: 老 count: 78  frequency : 0.0%
+total count:78
+
+number of homophones1
+soeng6: ['上'] 
+char: 上 count: 56  frequency : 0.0%
+total count:56
+
+number of homophones1
+tiu4: ['條'] 
+char: 條 count: 36  frequency : 0.0%
+total count:36
+
+number of homophones1
+gon3: ['幹'] 
+char: 幹 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+geng1: ['驚'] 
+char: 驚 count: 39  frequency : 0.0%
+total count:39
+
+number of homophones1
+baau3: ['爆'] 
+char: 爆 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+po3: ['破'] 
+char: 破 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zam3: ['浸'] 
+char: 浸 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wai2: ['位'] 
+char: 位 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+seng2: ['醒'] 
+char: 醒 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+co2: ['楚'] 
+char: 楚 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+mun2: ['門'] 
+char: 門 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+jat6: ['日'] 
+char: 日 count: 190  frequency : 0.0%
+total count:190
+
+number of homophones1
+biu2: ['表'] 
+char: 表 count: 21  frequency : 0.0%
+total count:21
+
+number of homophones1
+gwaan1: ['關'] 
+char: 關 count: 28  frequency : 0.0%
+total count:28
+
+number of homophones1
+aai3: ['嗌'] 
+char: 嗌 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+hou3: ['好'] 
+char: 好 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+tau1: ['偷'] 
+char: 偷 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+gin2: ['件'] 
+char: 件 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+zoi6: ['在'] 
+char: 在 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+kaa1: ['卡'] 
+char: 卡 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+jyu1: ['於'] 
+char: 於 count: 26  frequency : 0.0%
+total count:26
+
+number of homophones1
+tung1: ['通'] 
+char: 通 count: 72  frequency : 0.0%
+total count:72
+
+number of homophones1
+dam2: ['抌'] 
+char: 抌 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+gai1: ['雞'] 
+char: 雞 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+aap3: ['鴨'] 
+char: 鴨 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ce4: ['斜'] 
+char: 斜 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wong5: ['往'] 
+char: 往 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+wui4: ['回'] 
+char: 回 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+tin1: ['天'] 
+char: 天 count: 26  frequency : 0.0%
+total count:26
+
+number of homophones1
+wut6: ['活'] 
+char: 活 count: 48  frequency : 0.0%
+total count:48
+
+number of homophones1
+daan1: ['單'] 
+char: 單 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+jam1: ['音'] 
+char: 音 count: 42  frequency : 0.0%
+total count:42
+
+number of homophones1
+ngok6: ['樂'] 
+char: 樂 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+can1: ['親'] 
+char: 親 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+naa4: ['拿'] 
+char: 拿 count: 95  frequency : 0.0%
+total count:95
+
+number of homophones1
+lai5: ['禮'] 
+char: 禮 count: 50  frequency : 0.0%
+total count:50
+
+number of homophones1
+aat3: ['壓'] 
+char: 壓 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+saan2: ['散'] 
+char: 散 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+mun5: ['滿'] 
+char: 滿 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+baau2: ['飽'] 
+char: 飽 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+caan1: ['餐'] 
+char: 餐 count: 17  frequency : 0.0%
+total count:17
+
+number of homophones1
+hau2: ['口'] 
+char: 口 count: 36  frequency : 0.0%
+total count:36
+
+number of homophones1
+jam2: ['飲'] 
+char: 飲 count: 44  frequency : 0.0%
+total count:44
+
+number of homophones1
+ng6: ['誤'] 
+char: 誤 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wui6: ['會'] 
+char: 會 count: 48  frequency : 0.0%
+total count:48
+
+number of homophones1
+wo6: ['禍'] 
+char: 禍 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+laai1: ['拉'] 
+char: 拉 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+wo4: ['和'] 
+char: 和 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+lin4: ['連'] 
+char: 連 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+taa1: ['他'] 
+char: 他 count: 44  frequency : 0.0%
+total count:44
+
+number of homophones1
+meng6: ['命'] 
+char: 命 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+waa4: ['華'] 
+char: 華 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+faa3: ['化'] 
+char: 化 count: 39  frequency : 0.0%
+total count:39
+
+number of homophones1
+hong1: ['康'] 
+char: 康 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+paan3: ['盼'] 
+char: 盼 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+lei6: ['利'] 
+char: 利 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+leon6: ['論'] 
+char: 論 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+dyun2: ['短'] 
+char: 短 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+cau3: ['湊'] 
+char: 湊 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+wai5: ['偉'] 
+char: 偉 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lou1: ['撈'] 
+char: 撈 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+laau4: ['撈'] 
+char: 撈 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cai4: ['齊'] 
+char: 齊 count: 61  frequency : 0.0%
+total count:61
+
+number of homophones1
+dam4: ['氹'] 
+char: 氹 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zyun3: ['轉'] 
+char: 轉 count: 30  frequency : 0.0%
+total count:30
+
+number of homophones1
+man1: ['蚊'] 
+char: 蚊 count: 20  frequency : 0.0%
+total count:20
+
+number of homophones1
+ham6: ['冚'] 
+char: 冚 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+baang6: ['唪'] 
+char: 唪 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+laang6: ['唥'] 
+char: 唥 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+taai2: ['太'] 
+char: 太 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+mo2: ['摸'] 
+char: 摸 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+teoi3: ['退'] 
+char: 退 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+jung6: ['用'] 
+char: 用 count: 107  frequency : 0.0%
+total count:107
+
+number of homophones1
+za1: ['咋'] 
+char: 咋 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+cin2: ['錢'] 
+char: 錢 count: 100  frequency : 0.0%
+total count:100
+
+number of homophones1
+jung1: ['翁'] 
+char: 翁 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+joek6: ['藥'] 
+char: 藥 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+caan4: ['殘'] 
+char: 殘 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+gaan3: ['間'] 
+char: 間 count: 22  frequency : 0.0%
+total count:22
+
+number of homophones1
+zai6: ['滯'] 
+char: 滯 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mou1: ['毛'] 
+char: 毛 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+paa1: ['趴'] 
+char: 趴 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+cou4: ['嘈'] 
+char: 嘈 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+mang1: ['掹'] 
+char: 掹 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pung2: ['捧'] 
+char: 捧 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+tou5: ['肚'] 
+char: 肚 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+pun4: ['盤'] 
+char: 盤 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+mui5: ['每'] 
+char: 每 count: 41  frequency : 0.0%
+total count:41
+
+number of homophones1
+goek3: ['腳'] 
+char: 腳 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+waai6: ['壞'] 
+char: 壞 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+sap1: ['濕'] 
+char: 濕 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+maan2: ['慢'] 
+char: 慢 count: 11  frequency : 0.0%
+total count:11
+
+number of homophones1
+san4: ['神'] 
+char: 神 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+ngaan5: ['眼'] 
+char: 眼 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+zong3: ['壯'] 
+char: 壯 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gaam2: ['減'] 
+char: 減 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+kung4: ['窮'] 
+char: 窮 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+waan1: ['灣'] 
+char: 灣 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+man5: ['敏'] 
+char: 敏 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zaat3: ['扎'] 
+char: 扎 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+pei5: ['被'] 
+char: 被 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+saai1: ['嘥'] 
+char: 嘥 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+gim6: ['儉'] 
+char: 儉 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+hon5: ['旱'] 
+char: 旱 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zoi1: ['災'] 
+char: 災 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+pek6: ['擗'] 
+char: 擗 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zeoi1: ['追'] 
+char: 追 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+gam6: ['撳'] 
+char: 撳 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+haan1: ['慳'] 
+char: 慳 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zek3: ['隻'] 
+char: 隻 count: 11  frequency : 0.0%
+total count:11
+
+number of homophones1
+ze6: ['謝'] 
+char: 謝 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+maau6: ['貌'] 
+char: 貌 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+dat6: ['突'] 
+char: 突 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+neoi2: ['女'] 
+char: 女 count: 36  frequency : 0.0%
+total count:36
+
+number of homophones1
+ze3: ['借'] 
+char: 借 count: 13  frequency : 0.0%
+total count:13
+
+number of homophones1
+kwan3: ['困'] 
+char: 困 count: 13  frequency : 0.0%
+total count:13
+
+number of homophones1
+ngan4: ['銀'] 
+char: 銀 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+saap3: ['圾'] 
+char: 圾 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ling1: ['拎'] 
+char: 拎 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+ai1: ['哎'] 
+char: 哎 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+mui1: ['妹'] 
+char: 妹 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+gon1: ['乾'] 
+char: 乾 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+daam6: ['啖'] 
+char: 啖 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jin1: ['煙'] 
+char: 煙 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+leoi2: ['類'] 
+char: 類 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+deoi1: ['堆'] 
+char: 堆 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+hek3: ['吃'] 
+char: 吃 count: 23  frequency : 0.0%
+total count:23
+
+number of homophones1
+hot3: ['喝'] 
+char: 喝 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+au1: ['歐'] 
+char: 歐 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+mun6: ['悶'] 
+char: 悶 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+king4: ['鯨'] 
+char: 鯨 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+hoi2: ['海'] 
+char: 海 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+waan2: ['玩'] 
+char: 玩 count: 89  frequency : 0.0%
+total count:89
+
+number of homophones1
+ngon6: ['岸'] 
+char: 岸 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+nin2: ['年'] 
+char: 年 count: 26  frequency : 0.0%
+total count:26
+
+number of homophones1
+cou5: ['儲'] 
+char: 儲 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+naau6: ['鬧'] 
+char: 鬧 count: 24  frequency : 0.0%
+total count:24
+
+number of homophones1
+nau1: ['嬲'] 
+char: 嬲 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+ziu3: ['照'] 
+char: 照 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+daat6: ['達'] 
+char: 達 count: 17  frequency : 0.0%
+total count:17
+
+number of homophones1
+tiu3: ['跳'] 
+char: 跳 count: 32  frequency : 0.0%
+total count:32
+
+number of homophones1
+ceng2: ['請'] 
+char: 請 count: 29  frequency : 0.0%
+total count:29
+
+number of homophones1
+sei2: ['死'] 
+char: 死 count: 51  frequency : 0.0%
+total count:51
+
+number of homophones1
+fing6: ['揈'] 
+char: 揈 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lat1: ['甩'] 
+char: 甩 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jin6: ['現'] 
+char: 現 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+lek1: ['叻'] 
+char: 叻 count: 32  frequency : 0.0%
+total count:32
+
+number of homophones1
+caat3: ['察'] 
+char: 察 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+o5: ['哦'] 
+char: 哦 count: 80  frequency : 0.0%
+total count:80
+
+number of homophones1
+hon3: ['漢'] 
+char: 漢 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+jiu1: ['要'] 
+char: 要 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+ciu1: ['超'] 
+char: 超 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+haai6: ['械'] 
+char: 械 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+fut3: ['闊'] 
+char: 闊 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+zai1: ['擠'] 
+char: 擠 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+cyu3: ['處'] 
+char: 處 count: 20  frequency : 0.0%
+total count:20
+
+number of homophones1
+kwong3: ['曠'] 
+char: 曠 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cau4: ['稠'] 
+char: 稠 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+haa2: ['下'] 
+char: 下 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+saak3: ['索'] 
+char: 索 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+hong2: ['行'] 
+char: 行 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+hong4: ['行'] 
+char: 行 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+jim6: ['驗'] 
+char: 驗 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+diu6: ['掉'] 
+char: 掉 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+maai6: ['賣'] 
+char: 賣 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+zaan6: ['賺'] 
+char: 賺 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+laan1: ['蘭'] 
+char: 蘭 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+nong4: ['囊'] 
+char: 囊 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+kau1: ['溝'] 
+char: 溝 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+aa6: ['廿'] 
+char: 廿 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jan3: ['印'] 
+char: 印 count: 24  frequency : 0.0%
+total count:24
+
+number of homophones1
+lyun4: ['聯'] 
+char: 聯 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+jit6: ['熱'] 
+char: 熱 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+baan6: ['辦'] 
+char: 辦 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+laam6: ['纜'] 
+char: 纜 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+keng1: ['傾'] 
+char: 傾 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+wui3: ['會'] 
+char: 會 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+pok3: ['撲'] 
+char: 撲 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+bei6: ['備'] 
+char: 備 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zoeng3: ['仗'] 
+char: 仗 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+gwan1: ['軍'] 
+char: 軍 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zat1: ['質'] 
+char: 質 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+hin2: ['顯'] 
+char: 顯 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+waai4: ['懷'] 
+char: 懷 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+geoi6: ['具'] 
+char: 具 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+syu6: ['樹'] 
+char: 樹 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+gwan3: ['棍'] 
+char: 棍 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+kwai1: ['規'] 
+char: 規 count: 24  frequency : 0.0%
+total count:24
+
+number of homophones1
+zaang1: ['爭'] 
+char: 爭 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+mai5: ['咪'] 
+char: 咪 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bun3: ['半'] 
+char: 半 count: 31  frequency : 0.0%
+total count:31
+
+number of homophones1
+gaang1: ['更'] 
+char: 更 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+maan5: ['晚'] 
+char: 晚 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+dyun1: ['端'] 
+char: 端 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tang4: ['藤'] 
+char: 藤 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cit3: ['切'] 
+char: 切 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+zam1: ['針'] 
+char: 針 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+cong2: ['廠'] 
+char: 廠 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+pun3: ['判'] 
+char: 判 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fu5: ['婦'] 
+char: 婦 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+maang4: ['盲'] 
+char: 盲 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+paai3: ['派'] 
+char: 派 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+mau5: ['某'] 
+char: 某 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+jau3: ['幼'] 
+char: 幼 count: 18  frequency : 0.0%
+total count:18
+
+number of homophones1
+jai5: ['曳'] 
+char: 曳 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+jing6: ['認'] 
+char: 認 count: 13  frequency : 0.0%
+total count:13
+
+number of homophones1
+haan6: ['限'] 
+char: 限 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+kwaang1: ['框'] 
+char: 框 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+m1: ['唔'] 
+char: 唔 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+baai3: ['拜'] 
+char: 拜 count: 25  frequency : 0.0%
+total count:25
+
+number of homophones1
+pui3: ['配'] 
+char: 配 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+bui6: ['背'] 
+char: 背 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+lin6: ['練'] 
+char: 練 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+fo1: ['科'] 
+char: 科 count: 32  frequency : 0.0%
+total count:32
+
+number of homophones1
+ham1: ['堪'] 
+char: 堪 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gwai2: ['鬼'] 
+char: 鬼 count: 41  frequency : 0.0%
+total count:41
+
+number of homophones1
+dyun6: ['段'] 
+char: 段 count: 20  frequency : 0.0%
+total count:20
+
+number of homophones1
+ceoi2: ['取'] 
+char: 取 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+hang6: ['幸'] 
+char: 幸 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+song1: ['喪'] 
+char: 喪 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+le1: ['哩'] 
+char: 哩 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lok1: ['落'] 
+char: 落 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+seon6: ['順'] 
+char: 順 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+daam1: ['擔'] 
+char: 擔 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+coeng2: ['長'] 
+char: 長 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+long6: ['浪'] 
+char: 浪 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+aan3: ['晏'] 
+char: 晏 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+caak1: ['測'] 
+char: 測 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+tai1: ['梯'] 
+char: 梯 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+zyut6: ['絕'] 
+char: 絕 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+sam6: ['甚'] 
+char: 甚 count: 14  frequency : 0.0%
+total count:14
+
+number of homophones1
+goi2: ['改'] 
+char: 改 count: 19  frequency : 0.0%
+total count:19
+
+number of homophones1
+gon2: ['趕'] 
+char: 趕 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+caam3: ['杉'] 
+char: 杉 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gap3: ['合'] 
+char: 合 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gwaai1: ['乖'] 
+char: 乖 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+loeng6: ['量'] 
+char: 量 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+kui2: ['會'] 
+char: 會 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+jyun6: ['願'] 
+char: 願 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+gaap3: ['夾'] 
+char: 夾 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+ngaang2: ['硬'] 
+char: 硬 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pin2: ['片'] 
+char: 片 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tau3: ['透'] 
+char: 透 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zeon3: ['進'] 
+char: 進 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+ngau5: ['偶'] 
+char: 偶 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+taan2: ['坦'] 
+char: 坦 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bing6: ['並'] 
+char: 並 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+daam2: ['膽'] 
+char: 膽 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+sek3: ['錫'] 
+char: 錫 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+kap6: ['及'] 
+char: 及 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jung5: ['勇'] 
+char: 勇 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+soeng3: ['上'] 
+char: 上 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+baak1: ['迫'] 
+char: 迫 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+siu6: ['紹'] 
+char: 紹 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+king1: ['傾'] 
+char: 傾 count: 20  frequency : 0.0%
+total count:20
+
+number of homophones1
+guk1: ['谷'] 
+char: 谷 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+coeng3: ['唱'] 
+char: 唱 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+gung6: ['共'] 
+char: 共 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+dong2: ['黨'] 
+char: 黨 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+daa1: ['打'] 
+char: 打 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+haam3: ['喊'] 
+char: 喊 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+gwaan3: ['慣'] 
+char: 慣 count: 15  frequency : 0.0%
+total count:15
+
+number of homophones1
+aa2: ['阿'] 
+char: 阿 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+taan4: ['彈'] 
+char: 彈 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+kam4: ['琴'] 
+char: 琴 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+sung1: ['鬆'] 
+char: 鬆 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+lau1: ['嬲'] 
+char: 嬲 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jyun1: ['冤'] 
+char: 冤 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+bai3: ['閉'] 
+char: 閉 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+ding2: ['頂'] 
+char: 頂 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+dong3: ['當'] 
+char: 當 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+saau2: ['稍'] 
+char: 稍 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+so4: ['傻'] 
+char: 傻 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+bit1: ['必'] 
+char: 必 count: 28  frequency : 0.0%
+total count:28
+
+number of homophones1
+can2: ['診'] 
+char: 診 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gwong2: ['廣'] 
+char: 廣 count: 47  frequency : 0.0%
+total count:47
+
+number of homophones1
+din2: ['典'] 
+char: 典 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+tai3: ['替'] 
+char: 替 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ban2: ['品'] 
+char: 品 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+to1: ['拖'] 
+char: 拖 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+ning4: ['寧'] 
+char: 寧 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+gin1: ['堅'] 
+char: 堅 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+leng1: ['靚'] 
+char: 靚 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mong5: ['網'] 
+char: 網 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+leot6: ['律'] 
+char: 律 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+bung6: ['埲'] 
+char: 埲 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zan2: ['陣'] 
+char: 陣 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+tam3: ['𠱁'] 
+char: 𠱁 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bun6: ['叛'] 
+char: 叛 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+maa2: ['麻'] 
+char: 麻 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+gap1: ['急'] 
+char: 急 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+daan3: ['誕'] 
+char: 誕 count: 16  frequency : 0.0%
+total count:16
+
+number of homophones1
+baa4: ['爸'] 
+char: 爸 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+hou6: ['號'] 
+char: 號 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+heng1: ['輕'] 
+char: 輕 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+sau4: ['愁'] 
+char: 愁 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fun2: ['款'] 
+char: 款 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+kuk1: ['曲'] 
+char: 曲 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+laan4: ['蘭'] 
+char: 蘭 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+saai2: ['徙'] 
+char: 徙 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+gun1: ['觀'] 
+char: 觀 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+naan6: ['難'] 
+char: 難 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+taap3: ['塔'] 
+char: 塔 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+dim6: ['掂'] 
+char: 掂 count: 13  frequency : 0.0%
+total count:13
+
+number of homophones1
+din1: ['癲'] 
+char: 癲 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+saat3: ['殺'] 
+char: 殺 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+taan3: ['嘆'] 
+char: 嘆 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mung6: ['夢'] 
+char: 夢 count: 31  frequency : 0.0%
+total count:31
+
+number of homophones1
+zeng6: ['淨'] 
+char: 淨 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fang4: ['揈'] 
+char: 揈 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wun2: ['碗'] 
+char: 碗 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+zim6: ['漸'] 
+char: 漸 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+zim2: ['漸'] 
+char: 漸 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+ngau4: ['牛'] 
+char: 牛 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+jo1: ['唷'] 
+char: 唷 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zim1: ['尖'] 
+char: 尖 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wong6: ['旺'] 
+char: 旺 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+pou3: ['鋪'] 
+char: 鋪 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+ung3: ['甕'] 
+char: 甕 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+guk2: ['局'] 
+char: 局 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+daat3: ['笪'] 
+char: 笪 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ke4: ['騎'] 
+char: 騎 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+keoi4: ['渠'] 
+char: 渠 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wu1: ['汙'] 
+char: 汙 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+laa2: ['拿'] 
+char: 拿 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zeot1: ['卒'] 
+char: 卒 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+niu6: ['尿'] 
+char: 尿 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+baau1: ['包'] 
+char: 包 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+kam2: ['冚'] 
+char: 冚 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+dip2: ['碟'] 
+char: 碟 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+dip6: ['碟'] 
+char: 碟 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jim5: ['染'] 
+char: 染 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngaan4: ['顏'] 
+char: 顏 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fung4: ['逢'] 
+char: 逢 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+caap3: ['插'] 
+char: 插 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+ce3: ['斜'] 
+char: 斜 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gyun2: ['卷'] 
+char: 卷 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+naai5: ['奶'] 
+char: 奶 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+sau5: ['有'] 
+char: 有 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+fui1: ['灰'] 
+char: 灰 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ok3: ['惡'] 
+char: 惡 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+mo4: ['磨'] 
+char: 磨 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tong2: ['堂'] 
+char: 堂 count: 8  frequency : 0.0%
+total count:8
+
+number of homophones1
+deng2: ['頂'] 
+char: 頂 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+dang3: ['凳'] 
+char: 凳 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+tong3: ['燙'] 
+char: 燙 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lyut6: ['脟'] 
+char: 脟 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pai1: ['批'] 
+char: 批 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+dong6: ['盪'] 
+char: 盪 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngap1: ['噏'] 
+char: 噏 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+laan5: ['懶'] 
+char: 懶 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+doi2: ['袋'] 
+char: 袋 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ap1: ['噏'] 
+char: 噏 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+caau1: ['抄'] 
+char: 抄 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+ting1: ['聽'] 
+char: 聽 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+caat2: ['擦'] 
+char: 擦 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+dit3: ['跌'] 
+char: 跌 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+tek3: ['踢'] 
+char: 踢 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zou3: ['竈'] 
+char: 竈 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fei4: ['肥'] 
+char: 肥 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+nik1: ['搦'] 
+char: 搦 count: 12  frequency : 0.0%
+total count:12
+
+number of homophones1
+hat1: ['乞'] 
+char: 乞 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+coek3: ['綽'] 
+char: 綽 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tip3: ['貼'] 
+char: 貼 count: 10  frequency : 0.0%
+total count:10
+
+number of homophones1
+zoek6: ['著'] 
+char: 著 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wing5: ['永'] 
+char: 永 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+zaau6: ['棹'] 
+char: 棹 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zin6: ['賤'] 
+char: 賤 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bui1: ['杯'] 
+char: 杯 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+bat6: ['拔'] 
+char: 拔 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+piu3: ['票'] 
+char: 票 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+hung2: ['孔'] 
+char: 孔 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+faai1: ['快'] 
+char: 快 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bo4: ['婆'] 
+char: 婆 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+aak1: ['握'] 
+char: 握 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+kut3: ['括'] 
+char: 括 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+haam5: ['檻'] 
+char: 檻 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+caai2: ['踩'] 
+char: 踩 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+mung2: ['懵'] 
+char: 懵 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+syu3: ['處'] 
+char: 處 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+cim1: ['簽'] 
+char: 簽 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+dau2: ['斗'] 
+char: 斗 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lo3: ['嘍'] 
+char: 嘍 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+caang2: ['橙'] 
+char: 橙 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+kong4: ['狂'] 
+char: 狂 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+pou4: ['袍'] 
+char: 袍 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+be1: ['啤'] 
+char: 啤 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+au2: ['嘔'] 
+char: 嘔 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+laap3: ['擸'] 
+char: 擸 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fong4: ['房'] 
+char: 房 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+long2: ['廊'] 
+char: 廊 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+lam1: ['冧'] 
+char: 冧 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zeng3: ['正'] 
+char: 正 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+po2: ['婆'] 
+char: 婆 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pou5: ['抱'] 
+char: 抱 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+seot6: ['術'] 
+char: 術 count: 5  frequency : 0.0%
+total count:5
+
+number of homophones1
+paa2: ['扒'] 
+char: 扒 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cyu2: ['處'] 
+char: 處 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+hyut3: ['血'] 
+char: 血 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+lei1: ['璃'] 
+char: 璃 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+kat1: ['咳'] 
+char: 咳 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zam2: ['枕'] 
+char: 枕 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+juk1: ['喐'] 
+char: 喐 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zaam2: ['斬'] 
+char: 斬 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pei2: ['皮'] 
+char: 皮 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tip2: ['帖'] 
+char: 帖 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+lau5: ['柳'] 
+char: 柳 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+kyun4: ['權'] 
+char: 權 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+cap1: ['輯'] 
+char: 輯 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+lap1: ['粒'] 
+char: 粒 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jat2: ['日'] 
+char: 日 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bei1: ['碑'] 
+char: 碑 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+gwat6: ['掘'] 
+char: 掘 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+doek3: ['琢'] 
+char: 琢 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+kam1: ['襟'] 
+char: 襟 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bong6: ['磅'] 
+char: 磅 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mei2: ['味'] 
+char: 味 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mang2: ['𤷪'] 
+char: 𤷪 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zang2: ['𤺧'] 
+char: 𤺧 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+peng4: ['平'] 
+char: 平 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gip3: ['劫'] 
+char: 劫 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+dit1: ['啲'] 
+char: 啲 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+daai1: ['大'] 
+char: 大 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mat2: ['物'] 
+char: 物 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngo6: ['餓'] 
+char: 餓 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+cou3: ['躁'] 
+char: 躁 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+hung3: ['控'] 
+char: 控 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+tyun5: ['斷'] 
+char: 斷 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gui6: ['攰'] 
+char: 攰 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+him3: ['欠'] 
+char: 欠 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zaai3: ['債'] 
+char: 債 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+him1: ['謙'] 
+char: 謙 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+heoi1: ['虛'] 
+char: 虛 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gyun1: ['捐'] 
+char: 捐 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wok6: ['鑊'] 
+char: 鑊 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+jim3: ['厭'] 
+char: 厭 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+wan1: ['溫'] 
+char: 溫 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+aau3: ['詏'] 
+char: 詏 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+goeng1: ['殭'] 
+char: 殭 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+beng2: ['餅'] 
+char: 餅 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+waan5: ['挽'] 
+char: 挽 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+miu5: ['秒'] 
+char: 秒 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jo3: ['喲'] 
+char: 喲 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+cek2: ['尺'] 
+char: 尺 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+dai4: ['弟'] 
+char: 弟 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+laa4: ['嗱'] 
+char: 嗱 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+waa3: ['嘩'] 
+char: 嘩 count: 7  frequency : 0.0%
+total count:7
+
+number of homophones1
+ngaa4: ['牙'] 
+char: 牙 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+se1: ['些'] 
+char: 些 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+waat6: ['滑'] 
+char: 滑 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+sit6: ['蝕'] 
+char: 蝕 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+we2: ['搲'] 
+char: 搲 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+maau1: ['貓'] 
+char: 貓 count: 4  frequency : 0.0%
+total count:4
+
+number of homophones1
+ngaak1: ['呃'] 
+char: 呃 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+paak1: ['啪'] 
+char: 啪 count: 9  frequency : 0.0%
+total count:9
+
+number of homophones1
+pei4: ['皮'] 
+char: 皮 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+teoi1: ['推'] 
+char: 推 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cung2: ['寵'] 
+char: 寵 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+naa1: ['𠸎'] 
+char: 𠸎 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pei1: ['㨢'] 
+char: 㨢 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+zoek2: ['雀'] 
+char: 雀 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+caau3: ['摷'] 
+char: 摷 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ak1: ['握'] 
+char: 握 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+gik6: ['極'] 
+char: 極 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+zaa6: ['拃'] 
+char: 拃 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+hau5: ['厚'] 
+char: 厚 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+m5: ['五'] 
+char: 五 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+koi2: ['概'] 
+char: 概 count: 6  frequency : 0.0%
+total count:6
+
+number of homophones1
+mok6: ['寞'] 
+char: 寞 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+kai2: ['啟'] 
+char: 啟 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wai1: ['威'] 
+char: 威 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+koi3: ['概'] 
+char: 概 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ung2: ['擁'] 
+char: 擁 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jiu2: ['繞'] 
+char: 繞 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+koeng4: ['強'] 
+char: 強 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ping3: ['拼'] 
+char: 拼 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jaa1: ['吔'] 
+char: 吔 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+lo4: ['蘿'] 
+char: 蘿 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+laan6: ['爛'] 
+char: 爛 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+paau4: ['刨'] 
+char: 刨 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+dit6: ['秩'] 
+char: 秩 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+pit3: ['撇'] 
+char: 撇 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fe1: ['啡'] 
+char: 啡 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+fau4: ['浮'] 
+char: 浮 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tin4: ['填'] 
+char: 填 count: 3  frequency : 0.0%
+total count:3
+
+number of homophones1
+naa5: ['那'] 
+char: 那 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+deoi2: ['隊'] 
+char: 隊 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+gat1: ['吉'] 
+char: 吉 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+sung4: ['崇'] 
+char: 崇 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+hap1: ['恰'] 
+char: 恰 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+hit3: ['歇'] 
+char: 歇 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+heoi2: ['許'] 
+char: 許 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+kong3: ['抗'] 
+char: 抗 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cyun3: ['串'] 
+char: 串 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+maang6: ['孟'] 
+char: 孟 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+hak1: ['克'] 
+char: 克 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+deng3: ['掟'] 
+char: 掟 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+min5: ['免'] 
+char: 免 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+laak3: ['嘞'] 
+char: 嘞 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+sam2: ['瀋'] 
+char: 瀋 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tam5: ['氹'] 
+char: 氹 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+wat6: ['核'] 
+char: 核 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+cai3: ['砌'] 
+char: 砌 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+jam4: ['任'] 
+char: 任 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+zaai1: ['齋'] 
+char: 齋 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+caang3: ['撐'] 
+char: 撐 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ng4: ['吳'] 
+char: 吳 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wing4: ['榮'] 
+char: 榮 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngaai4: ['捱'] 
+char: 捱 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngaa5: ['雅'] 
+char: 雅 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+bok6: ['薄'] 
+char: 薄 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+wan5: ['韻'] 
+char: 韻 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngaang6: ['硬'] 
+char: 硬 count: 2  frequency : 0.0%
+total count:2
+
+number of homophones1
+ceon2: ['蠢'] 
+char: 蠢 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mo1: ['摩'] 
+char: 摩 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gwaa2: ['寡'] 
+char: 寡 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+ngo2: ['鵝'] 
+char: 鵝 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+gong3: ['鋼'] 
+char: 鋼 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tan1: ['吞'] 
+char: 吞 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+maai2: ['賣'] 
+char: 賣 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+mong1: ['芒'] 
+char: 芒 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+taam5: ['淡'] 
+char: 淡 count: 1  frequency : 0.0%
+total count:1
+
+number of homophones1
+tim4: ['甜'] 
+char: 甜 count: 1  frequency : 0.0%
+total count:1
+
+There are 720 jyutping with 1 homophones.
+There are 41 jyutping with 4 homophones.
+There are 272 jyutping with 2 homophones.
+There are 116 jyutping with 3 homophones.
+There are 14 jyutping with 5 homophones.
+There are 11 jyutping with 6 homophones.
+There are 3 jyutping with 7 homophones.
+There are 2 jyutping with 8 homophones.
+There are 2 jyutping with 9 homophones.
